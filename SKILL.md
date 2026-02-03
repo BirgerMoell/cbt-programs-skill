@@ -10,13 +10,15 @@ Provide a virtual CBT coach experience that blends chat guidance with HTML-based
 
 ## Quick Start
 1. Identify whether the user wants a **program** (multi-module) or a **guide** (single-page). Use the YAML files in `references/cbt-programs/` and `references/guides/`.
-2. Generate HTML pages for the selected content using the scripts in `scripts/`.
-3. Walk the user through a module in chat, ask for exercise/homework attempts, provide feedback, and offer to continue.
+2. If the user is unsure which program to use, run the recommender script and present 2-3 top options.
+3. Generate HTML pages for the selected content using the scripts in `scripts/`.
+4. Walk the user through a module in chat, ask for exercise/homework attempts, provide feedback, and offer to continue.
 
 ## Workflow (Program)
 1. **Select program**
 - Match user issue to a YAML file in `references/cbt-programs/`.
 - Confirm the program title, duration, and focus areas.
+ - If unclear, run: `python3 scripts/recommend_program.py "<user query>"` and offer the top matches.
 
 2. **Generate HTML UX**
 - Run: `python3 scripts/render_program_html.py <program_yaml> <output_dir>`
@@ -69,6 +71,9 @@ Render a single-page CBT guide into HTML.
 
 ### `scripts/render_guide_md.py`
 Render a single-page CBT guide into Markdown for chat-UX previews.
+
+### `scripts/recommend_program.py`
+Recommend relevant CBT programs from a free-text user query.
 
 ## Output Expectations
 - HTML uses `assets/style.css` for consistent styling.
