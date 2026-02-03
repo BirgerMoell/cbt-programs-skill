@@ -1,0 +1,35 @@
+id: caregiver-support
+title: Caring for a Loved One with Illness
+summary: Balance compassion with self-care while coordinating appointments, medication, and emotional support.
+tags:
+  - Caregiving
+  - Mental Health
+  - Family
+keywords:
+  - caregiving
+  - support
+  - family
+sections:
+  - title: Organize information and tasks
+    body:
+      - Keep a shared calendar for appointments, medication refills, and respite shifts among family or friends.
+      - Create a binder or digital folder with care plans, insurance numbers, legal documents, and emergency contacts.
+    highlights:
+      - Ask the healthcare team for written visit summaries to avoid missing instructions.
+  - title: Support emotional wellbeing
+    body:
+      - Check in regularly with the person you care for about their goals, fears, and what makes them feel in control.
+      - Encourage professional help if you notice signs of depression, anxiety, or withdrawal that persist beyond two weeks.
+    tips:
+      - Use open-ended questions like “What would help you feel more comfortable today?”
+  - title: Protect your own health
+    body:
+      - Schedule short breaks, movement, and sleep as non-negotiables; use respite services or trusted helpers when possible.
+      - Watch for your own warning signs such as irritability, exhaustion, or isolation and talk to a counselor or peer group.
+    highlights:
+      - Practice a quick de-stress ritual—stretching, mindful breathing, or stepping outside for fresh air—after intense tasks.
+resources:
+  - title: Family Caregiver Alliance Resource Center
+    url: https://www.caregiver.org/caregiver-resources/
+  - title: Mental Health America Caregiver Support Toolkit
+    url: https://mhanational.org/caregivers

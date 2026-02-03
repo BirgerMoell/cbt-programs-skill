@@ -1,0 +1,211 @@
+id: cbt-insomnia
+title: "The Sleep Restoration: Befriending the Night"
+condition: "Insomnia"
+summary: "A clinically grounded, compassion-focused CBT-I program designed to reset your relationship with sleep. By combining sleep restriction, stimulus control, and cognitive restructuring, you will learn to quiet the racing mind, rebuild your natural sleep drive, and transform bedtime from a battleground into a sanctuary of rest."
+duration: "5 modules • 6-10 weeks self-paced"
+focusAreas:
+  - "Sleep Drive Regulation"
+  - "Stimulus Control"
+  - "Cognitive Restructuring"
+  - "Hyperarousal Management"
+  - "Relaxation Techniques"
+modules:
+  - title: "Module 1 • The Science of Sleep: Why You’re Awake"
+    overview:
+      - "We begin by demystifying the mechanics of sleep. You will learn about the two-process model: the Homeostatic Sleep Drive (your hunger for sleep) and the Circadian Rhythm (your body clock). Understanding this biology is the first step to fixing it."
+      - "Insomnia is often maintained by the very things we do to fix it. We explore how 'sleep effort'—trying hard to sleep—actually pushes sleep away, creating a paradox where the harder you try, the more awake you feel."
+      - "We introduce the concept of 'Sleep Efficiency.' You will learn to calculate the percentage of time you spend actually asleep versus time spent in bed, a crucial metric we will aim to improve."
+      - "The module addresses the 'conditioned arousal' response. You'll understand why you might feel tired on the couch but wide awake the moment your head hits the pillow."
+      - "You will start a 'Sleep Diary.' Unlike a standard journal, this collects specific data points: lights out time, sleep onset latency, number of awakenings, and rise time. This data is the foundation of your recovery."
+      - "We debunk common myths about sleep (e.g., 'everyone needs 8 hours') that create unnecessary performance anxiety."
+      - "Finally, we set the stage for the most counter-intuitive but effective tool in CBT-I: Time in Bed Restriction. We prepare you for the idea that to get more sleep, we might initially need to spend less time in bed."
+    takeaways:
+      - "Sleep is a biological reflex, not a performance; you cannot force it, only invite it."
+      - "Trying to compensate for lost sleep (sleeping in, napping) often perpetuates the insomnia cycle."
+      - "Your bed has likely become a trigger for wakefulness rather than a cue for rest."
+      - "Accurate tracking via the Sleep Diary is essential for tailoring the intervention."
+    narrative:
+      - section: "The battle for sleep"
+        paragraphs:
+          - "If you are here, you know the loneliness of the middle of the night. You know the frustration of watching the clock tick, calculating how many hours of rest you can get if you fall asleep 'right now.' You know the exhaustion that follows you through the day, only to vanish the moment you get into bed."
+          - "Insomnia feels like a broken switch. You are tired, but you are also 'wired.' It feels like your brain simply won't shut down. You might believe you have lost the ability to sleep naturally."
+          - "Let me assure you: You haven't. Your sleep system is not broken; it is just confused. Over time, through frustration and worry, you have accidentally trained your brain to associate the bed with wakefulness, anxiety, and effort. This program is about untangling that confusion."
+        exerciseAfter: 0
+      - section: "The two-process model"
+        paragraphs:
+          - "Sleep is regulated by two systems. First, the Sleep Drive (Process S). Think of this like hunger. The longer you are awake, the 'hungrier' for sleep you become. Second, the Circadian Rhythm (Process C). This is your internal 24-hour clock that signals alertness during the day."
+          - "In chronic insomnia, these systems often get out of sync. We might nap to cope (reducing sleep hunger) or stay in bed too long (diluting sleep efficiency). We are going to learn to manipulate these two levers to build a sleep pressure so strong that sleep becomes inevitable."
+        exerciseAfter: 1
+      - section: "The trap of 'trying'"
+        paragraphs:
+          - "Sleep is one of the few things in life where trying harder makes it worse. If you try to breathe manually, you hyperventilate. If you try to sleep manually, you get insomnia. This is called 'Sleep Effort.'"
+          - "We are going to move from a mindset of 'catching' sleep to a mindset of 'allowing' sleep. We will stop chasing it and instead create the conditions where it can land on you."
+        exerciseAfter: 2
+    exercises:
+      - "The Sleep Diary Initiation: Download the provided log. For the next week, record your sleep data every morning immediately upon waking. Do not rely on memory later in the day."
+      - "The 'Trying' Audit: List three things you currently do to 'force' sleep (e.g., counting sheep, drinking tea, listening to podcasts). For this week, try to drop one of them and just rest."
+      - "Bedroom Review: Stand in your bedroom. List every object that is not related to sleep or intimacy (TV, laptop, work files). Make a plan to remove them."
+    homework:
+      - "Complete the Sleep Diary for 7 consecutive nights. Calculate your average Sleep Efficiency (Total Sleep Time / Time in Bed x 100)."
+      - "Remove at least one 'non-sleep' stimulus from your bedroom environment."
+      - "Practice the '5-Minute Buffer'—spend 5 minutes simply sitting on the edge of the bed before getting in, taking deep breaths to mark the transition."
+
+  - title: "Module 2 • Stimulus Control: Reclaiming the Bed"
+    overview:
+      - "This module introduces Stimulus Control Therapy, the gold standard for breaking the association between bed and wakefulness. The goal is to make the bed a strong cue for sleep only."
+      - "We implement the 'Quarter-Hour Rule': If you are not asleep in roughly 15-20 minutes, you must get out of bed. This prevents the brain from learning that 'bed = tossing and turning.'"
+      - "You will learn the importance of a consistent 'Rise Time.' Waking up at the same time every day, regardless of how you slept, anchors your circadian rhythm."
+      - "We discuss 'Sleep Restriction' (or Sleep Compression). Based on your diary, we will set a 'Sleep Window' that matches your actual sleep ability, eliminating long periods of being awake in bed."
+      - "The concept of 'Sleep Inertia' (grogginess upon waking) is explained, helping you differentiate it from genuine fatigue."
+      - "We address the fear of getting out of bed. It feels safer to stay under the covers, but leaving the room is essential for resetting the arousal system."
+      - "Finally, we plan 'The Landing Zone'—a cozy, low-light place in your home where you will go when you can't sleep, filled with non-stimulating activities."
+    takeaways:
+      - "If you can't sleep, staying in bed is the worst thing you can do."
+      - "A consistent wake-up time is more important than a consistent bedtime."
+      - "Compressing your time in bed increases sleep pressure and sleep quality."
+      - "The bed must be reserved exclusively for sleep and intimacy."
+    narrative:
+      - section: "The bed is not a thinking chair"
+        paragraphs:
+          - "Imagine if you sat at your dining table every day and felt nauseous. Eventually, just looking at the table would make you feel sick. This is classical conditioning."
+          - "Right now, your bed is a cue for worry, planning, regret, and frustration. We need to break this link. We want your brain to see the pillow and think 'Sleep,' not 'Thinking time.'"
+          - "The rule is simple but hard: The bed is for sleeping. If you are not sleeping, you are not in the bed. By leaving the bed when you are awake, you protect the bed's sanctity as a sleep sanctuary."
+        exerciseAfter: 0
+      - section: "The power of the sleep window"
+        paragraphs:
+          - "If you only sleep 6 hours a night, but you spend 9 hours in bed hoping for more, you are spreading your sleep thin, like too little butter on too much toast. Your sleep becomes light and fragmented."
+          - "We are going to condense your sleep. We will set a window—say, 11:30 PM to 6:00 AM—that matches your actual sleep ability. This sounds scary, but it concentrates your sleep drive. You will sleep deeper, with fewer awakenings. Quality over quantity."
+        exerciseAfter: 1
+      - section: "The landing zone"
+        paragraphs:
+          - "When you get up in the middle of the night, where do you go? You need a 'Landing Zone.' This is a comfortable chair or a spot on the rug with a blanket."
+          - "In this zone, you do things that are pleasant but boring. Read a dull book. Knit. Listen to soft music. No screens, no work, no problem-solving. You stay there until the 'Sleep Wave' returns—that heavy-lidded feeling. Then, and only then, do you return to bed."
+        exerciseAfter: 2
+    exercises:
+      - "Define Your Window: Based on last week's diary, calculate your average Total Sleep Time. Add 30 minutes. This is your new 'Time in Bed.' Set your wake time and work backward to find your bedtime."
+      - "Prepare the Landing Zone: Set up a spot in another room with a blanket, dim light, and a non-digital activity (book, puzzle, knitting)."
+      - "The 15-Minute Rehearsal: Visualize the steps of getting up when you can't sleep. See yourself walking to the Landing Zone calmly, without frustration."
+    homework:
+      - "Implement the Sleep Window strictly for 7 days. Do not go to bed earlier, even if tired. Do not sleep in, even if the night was rough."
+      - "Follow the Quarter-Hour Rule: If awake for >20 mins (estimated), get up. Go to the Landing Zone. Return only when sleepy."
+      - "No napping. Save that sleep hunger for the night."
+
+  - title: "Module 3 • Cognitive Restructuring: Quieting the Night Mind"
+    overview:
+      - "This module tackles the 'tired but wired' mind. We identify the specific thoughts that keep you awake, known as 'sleep-interfering cognitions.'"
+      - "We address 'Catastrophizing about Sleep Loss'—thoughts like 'If I don't sleep now, I will fail tomorrow' or 'I'll get sick if this continues.'"
+      - "You will learn to use a 'Nighttime Thought Record' to catch and challenge these panic-inducing thoughts in the moment."
+      - "We introduce the concept of 'Constructive Worry' (or Scheduled Worry Time). You will learn to process your next-day concerns early in the evening so they don't ambush you at 2 AM."
+      - "The 'Paradoxical Intention' technique is taught: trying to stay awake (gently) to reduce the performance anxiety of trying to fall asleep."
+      - "We explore the difference between 'Solution-Oriented Thinking' (daytime) and 'Looping' (nighttime). You'll learn why the brain is bad at solving problems at 3 AM."
+      - "Finally, we practice 'Cognitive Shuffling'—a mental game to distract the brain from verbal worry and engage the visual centers, mimicking the onset of dreams."
+    takeaways:
+      - "Panic about sleep loss is more damaging to your performance than the sleep loss itself."
+      - "Your brain cannot problem-solve effectively at night; it can only worry."
+      - " paradoxical intention (trying to stay awake) lowers performance anxiety."
+      - "Cognitive shuffling helps bridge the gap between wakefulness and dream-state."
+    narrative:
+      - section: "The megaphone of the night"
+        paragraphs:
+          - "At 2 PM, a problem is a nuisance. At 2 AM, it is a disaster. The night has a way of amplifying our fears. We lie there calculating: 'If I fall asleep now, I get 4 hours. That's not enough. I'll be a zombie. I'll mess up the presentation.'"
+          - "These thoughts are the fuel for your insomnia. They spike your adrenaline. Your heart beats faster. You become hyper-alert. You have literally scared yourself awake."
+          - "We need to talk back to these thoughts. Is it true you will fail? Or have you survived tired days before? Is it true you will never sleep again? Or does your body always eventually take what it needs?"
+        exerciseAfter: 0
+      - section: "Putting the day to bed"
+        paragraphs:
+          - "Many of us carry our to-do lists to the pillow. We try to organize our lives in the dark. But the bedroom is not a conference room."
+          - "We will use a technique called 'Putting the Day to Bed.' Early in the evening, you will write down every concern, every unfinished task, and the next step for each. You are downloading the worry from your brain to the paper. When the thought comes at night, you can tell it: 'I have already dealt with you. You are on the list.'"
+        exerciseAfter: 1
+      - section: "Trying to stay awake"
+        paragraphs:
+          - "It sounds crazy, but I want you to try to stay awake. Lie in bed, keep your eyes open (in the dark), and tell yourself, 'I will just rest my body. I will not try to sleep.' "
+          - "When you stop trying to force sleep, you remove the resistance. You lower the stakes. Often, when you give yourself permission to be awake, sleep sneaks in through the back door."
+        exerciseAfter: 2
+    exercises:
+      - "Constructive Worry Journal: Spend 15 minutes at 7 PM writing down tomorrow's worries and a plan for each. Close the book and say 'Done for today.'"
+      - "The catastrophe Challenge: Write down your fear ('I will crash the car'). Rate how likely it is. Recall past tired days—did it happen? Write a balanced thought ('I will be tired and grumpy, but I can function')."
+      - "Cognitive Shuffling: Pick a word (e.g., 'BEDTIME'). For each letter, visualize a word starting with it (B - Bear, Ball, Boat...). Focus on the image, not the word. This mimics dream logic."
+    homework:
+      - "Practice 'Putting the Day to Bed' every evening 2 hours before sleep."
+      - "Use the Cognitive Shuffling technique if you wake up in the night and the mind starts racing."
+      - "When you catch yourself calculating hours, stop and say: 'Rest is good too. I will accept whatever rest I get.'"
+
+  - title: "Module 4 • The Art of Winding Down: De-escalation"
+    overview:
+      - "This module focuses on the physiological transition from day to night. We build a 'Buffer Zone'—a 60-90 minute period before bed free from work and high-stimulation."
+      - "We explore the impact of light (blue vs. amber) on melatonin production and how to manage your light environment."
+      - "Relaxation techniques specific to sleep are introduced, focusing on 'letting go' rather than 'doing' relaxation."
+      - "We practice the 'Body Scan for Sleep,' moving attention from the head to the toes, turning off muscles like light switches."
+      - "The concept of 'Sleep Hygiene' is revisited, not as a rulebook but as a way to signal safety to the nervous system."
+      - "We discuss diet, caffeine, and alcohol—specifically how alcohol creates 'rebound alertness' in the second half of the night."
+      - "You will create a customized 'Wind-Down Ritual' that acts as a Pavlovian signal to your brain that the day is over."
+    takeaways:
+      - "You cannot brake a car from 60mph to 0 in one second; your brain needs a deceleration ramp."
+      - "Alcohol helps you fall asleep but destroys the quality of sleep."
+      - "A consistent wind-down ritual triggers the release of sleep hormones."
+      - "Relaxation is about releasing tension, not adding a new task."
+    narrative:
+      - section: "The deceleration ramp"
+        paragraphs:
+          - "Modern life demands we go full speed until the moment we crash. We answer emails at 10 PM, watch intense thrillers at 10:30 PM, and expect to sleep at 11 PM. It doesn't work that way."
+          - "Your brain needs a runway to land. We call this the Buffer Zone. It is a time to shift from 'Doing Mode' (solving, achieving, rushing) to 'Being Mode' (sensing, resting, letting go)."
+          - "Think of this time as a sacred boundary. It is where you wash off the day—not just physically, but mentally."
+        exerciseAfter: 0
+      - section: "The myth of the nightcap"
+        paragraphs:
+          - "It is tempting to have a drink to relax. And yes, alcohol is a sedative. It will knock you out. But it is a trap."
+          - "As the alcohol metabolizes, it triggers a rebound effect. Your body releases adrenaline. You wake up at 3 AM, sweating, heart racing, and unable to return to sleep. For the duration of this program, we treat alcohol with extreme caution."
+        exerciseAfter: 1
+      - section: "Turning off the switches"
+        paragraphs:
+          - "Physical tension often mirrors mental tension. You might be holding your shoulders up, clenching your jaw, or tightening your legs without knowing it."
+          - "We will practice a Body Scan specifically designed for sleep. We will visit each part of your body and give it permission to heavy, to sink into the mattress. We are turning off the lights in the house of your body, one room at a time."
+        exerciseAfter: 2
+    exercises:
+      - "Design Your Buffer Zone: Divide the 90 minutes before bed into 3 sections: 1. Finish chores/hygiene. 2. Relaxing activity (read, chat). 3. Bedtime prep. No screens in the last hour."
+      - "The Caffeine Cut-Off: Determine a time (usually 12 PM or 2 PM) after which zero caffeine is consumed. Stick to it."
+      - "Sleep Body Scan: Practice the audio guide provided, focusing on the sensation of 'heaviness' and 'warmth' in the limbs."
+    homework:
+      - "Execute your Buffer Zone routine every night. Note how it feels to disconnect from screens early."
+      - "Practice the Body Scan once in bed. If you fall asleep during it, that is fine."
+      - "Monitor alcohol intake and its effect on your 3 AM awakenings."
+
+  - title: "Module 5 • Sustainable Sleep: Trusting the Process"
+    overview:
+      - "The final module moves from strict intervention to sustainable maintenance. We discuss how to safely expand your sleep window as your efficiency improves."
+      - "We address 'Sleep Confidence'—the belief that you can sleep. We review the evidence of your progress."
+      - "Relapse prevention is key. We identify triggers (stress, travel, illness) that might disturb sleep and create a plan to handle them without panicking."
+      - "We explore the concept of 'Good Enough Sleep.' Letting go of the perfectionist ideal of 8 solid hours every night."
+      - "You will write a 'Sleep Credo'—a set of reminders to keep you grounded when you have a rough night."
+      - "We discuss how to handle jet lag and shift work using the principles you've learned."
+      - "Finally, we celebrate the shift in identity from 'Insomniac' to 'Person who sleeps adequately most of the time.'"
+    takeaways:
+      - "One bad night is just one bad night; it is not a return to insomnia."
+      - "You can expand your time in bed slowly as long as sleep efficiency stays high."
+      - "Letting go of the need for 'perfect' sleep is the final key to good sleep."
+      - "You have the tools to manage any future disruptions."
+    narrative:
+      - section: "Expanding the window"
+        paragraphs:
+          - "By now, you are likely sleeping more solidly, even if the duration is short. You are hungry for sleep, and you fall asleep faster. This is success."
+          - "Now we can gently loosen the reins. We will add time to your sleep window in 15-minute increments. We do this slowly, like checking the ice before stepping out. If you start spending time awake in bed again, we pull back. We are looking for the sweet spot."
+        exerciseAfter: 0
+      - section: "The bad night backup plan"
+        paragraphs:
+          - "You will have bad nights again. You will get sick, you will have a crisis, or you will just be human. The difference now is that you don't have to panic."
+          - "In the past, a bad night meant 'The insomnia is back!' Now, a bad night means 'I had a bad night.' You know what to do. You get up if you're not sleeping. You don't nap. You stick to your wake time. You trust your body to correct itself the next night."
+          - "You are no longer helpless. You are the pilot of your own sleep system."
+        exerciseAfter: 1
+      - section: "Good enough is perfect"
+        paragraphs:
+          - "The perfect sleeper does not exist. Everyone wakes up. Everyone has trouble sometimes. The goal was never perfect coma-like sleep. The goal was sleep that fuels your life."
+          - "If you wake up and feel okay to get through the day, you have slept enough. Trust your daytime energy, not just the number on the clock. You have befriended the night, and it will take care of you."
+        exerciseAfter: 2
+    exercises:
+      - "The Expansion Test: If your sleep efficiency was >90% last week, add 15 minutes to your bedtime (go to bed 15 mins earlier). Monitor for a week."
+      - "Relapse Plan: Write down: 'If I have 3 bad nights in a row, I will...' (e.g., return to strict window, stop caffeine, restart diary)."
+      - "Sleep Credo: Write 3 statements to read when anxious. (e.g., 'My body knows how to sleep,' 'I can survive being tired,' 'Rest is enough')."
+    homework:
+      - "Continue the Sleep Diary for one more month to monitor the window expansion."
+      - "Review your Relapse Plan with a partner or friend."
+      - "Celebrate your progress by doing something with the extra energy you now have during the day."

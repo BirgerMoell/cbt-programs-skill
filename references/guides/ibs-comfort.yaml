@@ -1,0 +1,33 @@
+id: ibs-comfort
+title: Calming IBS Flares
+summary: Understand triggers, build supportive routines, and use symptom relief strategies for irritable bowel syndrome.
+tags:
+  - Digestive health
+  - IBS
+  - Self-management
+keywords:
+  - ibs
+  - digestion
+  - gut
+sections:
+  - title: Map your trigger patterns
+    body:
+      - Track meals, stress levels, sleep quality, and symptoms in one place to identify correlations.
+      - Pay attention to portion size, caffeine, and alcohol as common flare contributors.
+    tips:
+      - Bring your tracking notes to dietitian or clinician visits for personalized guidance.
+  - title: Support digestion daily
+    body:
+      - Eat smaller, more frequent meals and chew slowly to reduce bloating.
+      - Try gentle movement like walking or yoga twists to ease discomfort.
+    highlights:
+      - Keep hydration steady; warm fluids can soothe cramping.
+  - title: Plan for flare days
+    body:
+      - Prepare a comfort kit with heat packs, peppermint tea, relaxation audio, and flexible clothing.
+      - Review your self-care list when symptoms appear so decisions feel easier.
+resources:
+  - title: Monash University Low FODMAP Guide
+    url: https://www.monashfodmap.com/
+  - title: NHS IBS Self-Help Tips
+    url: https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/

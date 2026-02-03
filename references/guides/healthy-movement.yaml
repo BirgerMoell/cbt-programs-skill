@@ -1,0 +1,31 @@
+id: healthy-movement
+title: Healthy Movement for Energy
+summary: Mix strength, cardio, and recovery so movement improves mood, sleep, and overall energy.
+tags:
+  - Movement
+  - Exercise
+  - Recovery
+keywords:
+  - exercise
+  - movement
+  - activity
+sections:
+  - title: Set realistic weekly targets
+    body:
+      - Aim for 150 minutes of moderate activity or 75 minutes vigorous per week, plus two strength sessions.
+      - Use wearable data or perceived exertion (talk test) to gauge intensity.
+  - title: Protect recovery
+    body:
+      - Alternate muscle groups or activity types to give tissues time to repair.
+      - Stretch or foam roll after workouts and prioritize 7–9 hours of sleep.
+    tips:
+      - Log soreness and energy in your journal to fine-tune training load.
+  - title: Keep motivation flexible
+    body:
+      - Pair movement with music, friends, or outdoor settings you enjoy.
+      - Set process goals ("move for 20 minutes") instead of outcome-only goals to celebrate consistency.
+resources:
+  - title: WHO Physical Activity Recommendations
+    url: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+  - title: NHS Strength and Flex Plan
+    url: https://www.nhs.uk/live-well/exercise/strength-and-flexibility-exercises/

@@ -1,0 +1,35 @@
+id: alcohol-awareness
+title: Managing Alcohol Mindfully
+summary: Understand your drinking patterns, reduce risk, and get support when alcohol starts to impact your life.
+tags:
+  - Substance Use
+  - Prevention
+  - Mental Health
+keywords:
+  - alcohol
+  - harm reduction
+  - cravings
+sections:
+  - title: Check your current risk level
+    body:
+      - Track how many standard drinks you consume each day and compare with low-risk guidelines (e.g., no more than 14 per week for most adults).
+      - Notice situations that lead to drinking more than planned, such as stress, social pressure, or boredom.
+    highlights:
+      - Consider using screening tools like AUDIT-C or a brief chat with your clinician to assess risk.
+  - title: Set limits and alternatives
+    body:
+      - Decide on alcohol-free days each week and plan enjoyable activities—exercise, hobbies, or meeting friends for coffee instead of drinks.
+      - Alternate alcoholic drinks with water or alcohol-free options and eat before or while drinking to slow absorption.
+    tips:
+      - Share your plan with a trusted friend who can support your goals when you are out together.
+  - title: Seek support early
+    body:
+      - Talk to your healthcare provider if you find it hard to cut back, experience cravings, or drink to manage emotions.
+      - Explore counseling, support groups, or digital programs focused on substance use change strategies.
+    highlights:
+      - If you experience withdrawal symptoms—tremors, sweating, rapid heartbeat—seek medical help before stopping abruptly.
+resources:
+  - title: WHO Alcohol Self-Assessment (AUDIT)
+    url: https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addiction/alcohol/audit
+  - title: Moderation Management Tools
+    url: https://www.moderation.org/tools/

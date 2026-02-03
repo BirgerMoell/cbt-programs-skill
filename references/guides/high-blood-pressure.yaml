@@ -1,0 +1,38 @@
+id: high-blood-pressure
+title: Handling High Blood Pressure
+summary: Understand your blood pressure numbers and build routines that keep your heart protected.
+tags:
+  - Heart health
+  - Lifestyle
+  - Monitoring
+keywords:
+  - blood pressure
+  - hypertension
+  - bp
+sections:
+  - title: Know your numbers
+    body:
+      - Take readings at the same time each day and record them in your journal or health app.
+      - Most adults aim for a resting blood pressure below 130/80 mmHg unless your care team sets a different goal.
+    highlights:
+      - Bring your home monitor to appointments twice a year to compare with clinic readings.
+      - Sit quietly for five minutes before measuring for the most accurate result.
+  - title: Daily habits that make a difference
+    body:
+      - Cook with herbs, spices, and citrus instead of salt to keep sodium under 1500 mg per day.
+      - Include 30 minutes of moderate movement (like brisk walking or cycling) at least five days per week.
+      - Limit alcohol to one drink per day for women and two for men, and add alcohol-free days into your week.
+    tips:
+      - Batch cook heart-friendly meals on the weekend so weeknight choices are easy.
+      - Use reminders on your phone to take medications within the same two-hour window each day.
+  - title: When to check in with your care team
+    body:
+      - Contact your clinician if your readings stay above your target for more than three days.
+      - Seek urgent care if you experience chest pain, severe headache, shortness of breath, or vision changes.
+    highlights:
+      - Bring a list of readings and any symptoms to every appointment for quicker adjustments.
+resources:
+  - title: American Heart Association Blood Pressure Tracker
+    url: https://www.heart.org/en/health-topics/high-blood-pressure
+  - title: DASH Eating Plan Overview
+    url: https://www.nhlbi.nih.gov/health/dash-eating-plan

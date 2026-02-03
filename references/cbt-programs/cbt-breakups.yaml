@@ -1,0 +1,104 @@
+id: cbt-breakups
+title: "Rebuilding the Self: Navigating Heartbreak"
+condition: "Breakups & Divorce"
+summary: "A compassionate, structured CBT program to help you navigate the grief, withdrawal, and identity crisis of a relationship ending. You will learn to manage intrusive thoughts of your ex, break the addiction cycle, rebuild your self-esteem, and create a future that feels hopeful and whole."
+duration: "7 modules • 8-12 weeks self-paced"
+focusAreas:
+  - "Grief Processing"
+  - "No-Contact Strategy"
+  - "Identity Reconstruction"
+  - "Rumination Control"
+  - "Future Planning"
+modules:
+  - title: "Module 1 • The Neurobiology of Heartbreak"
+    overview:
+      - "We validate the pain: MRI studies show heartbreak activates the same brain regions as physical pain."
+      - "We explain the 'Addiction Model.' Love releases dopamine and oxytocin. A breakup puts you into chemical withdrawal. The urge to text is a craving, not a logical need."
+      - "We normalize the symptoms: Obsessive thoughts, physical ache, insomnia, and panic."
+      - "We introduce the 'No Contact' rule not as a game to get them back, but as a detox protocol for your brain."
+      - "You will start a 'Craving Log' to track the urges to contact them."
+    takeaways:
+      - "You are not crazy; you are in withdrawal."
+      - "Contacting an ex resets the withdrawal clock."
+      - "The pain is a biological signal of separation, but it is not a command to act."
+    narrative:
+      - section: "The withdrawal phase"
+        paragraphs:
+          - "Right now, your brain is screaming for its 'fix.' That fix is your ex. You want to check their social media, text them, or beg for answers. This feels like love, but it is actually addiction."
+          - "We need to treat this like detox. It is going to hurt. You will have cravings. But every time you resist a craving, you weaken the neural bond. Every time you check their photo, you strengthen it. We are going to help you stay sober."
+        exerciseAfter: 0
+    exercises:
+      - "The Digital Detox: Remove/Block/Mute the ex on all platforms. Delete the chat history (or archive it where you can't see it)."
+      - "Craving Surfing: When the urge to text hits, set a timer for 10 minutes. Distract yourself. Notice if the urge fades."
+    homework:
+      - "Maintain strict No Contact for 7 days."
+      - "Journal the physical symptoms of grief (heaviness, tightness) to externalize them."
+
+  - title: "Module 2 • Stopping the Rumination"
+    overview:
+      - "Heartbreak creates a loop of 'Why?' 'What if?' and 'If only.' This module targets obsessive rumination."
+      - "We identify the 'Idealization Filter.' Your brain is replaying a highlight reel of the relationship, ignoring the bad parts."
+      - "We use the 'Reality List.' Writing down every annoying, painful, or incompatible trait of the ex/relationship."
+      - "Techniques for 'Thought Stopping' and 'Redirecting' when the memory loops start."
+    takeaways:
+      - "Your brain is lying to you about how perfect it was."
+      - "Searching for closure is a trap; you create your own closure."
+      - "Rumination keeps the wound open."
+    narrative:
+      - section: "Taking off the rose-colored glasses"
+        paragraphs:
+          - "In grief, we tend to canonize the ex. We remember the trips, the laughs, the intimacy. We forget the fights, the coldness, the anxiety."
+          - "We need to look at the relationship with sober eyes. It ended for a reason. Even if you didn't choose the ending, the dynamic was not working. We are going to take the ex off the pedestal and put them back on the ground as a flawed human being."
+        exerciseAfter: 0
+    exercises:
+      - "The Ick List: Write a brutal list of everything you didn't like about them or the relationship. Read it whenever you miss them."
+      - "The 'Why' Ban: Stop asking 'Why did this happen?' Start asking 'What do I do now?'"
+    homework:
+      - "Read your Ick List 3 times a day."
+      - "Practice redirecting thoughts to the present moment (5-4-3-2-1 technique)."
+
+  - title: "Module 3 • Who Am I Now? Identity Reconstruction"
+    overview:
+      - "Long relationships merge identities. The loss feels like losing a limb. This module focuses on 'Self-Concept Clarity.'"
+      - "We revisit the 'Venn Diagram of Me.' Reclaiming the parts of you that were suppressed or neglected in the relationship."
+      - "We encourage 'Novelty.' Doing new things creates new neural pathways that don't have the ex's face on them."
+      - "Addressing the fear of being alone."
+    takeaways:
+      - "You are not half a person; you are a whole person who was in a couple."
+      - "Recovery is an opportunity to redesign your life."
+      - "Solitude is not the same as loneliness."
+    narrative:
+      - section: "Reclaiming the territory"
+        paragraphs:
+          - "Did you stop listening to certain music? Did you stop seeing certain friends? Did you change your hobbies? Now is the time to take them back."
+          - "This is the exciting part of the tragedy. You get to decide who you are when you aren't 'So-and-so's Partner.' You get to be the protagonist of your own movie again, not a supporting character in a romance."
+        exerciseAfter: 0
+    exercises:
+      - "The Revival List: List 3 things you loved before the relationship that you stopped doing. Do one this week."
+      - "Solo Date: Go to a movie, dinner, or park alone. Practice enjoying your own company."
+    homework:
+      - "Execute one Revival activity."
+      - "Rearrange your furniture or change your bedding to signal a 'New Era' in your home."
+
+  - title: "Module 4 • The Future Vision"
+    overview:
+      - "Moving from looking back to looking forward."
+      - "Challenging the 'scarcity mindset' ('I'll never find anyone like them')."
+      - "Values clarification for future relationships. What do you actually want next time?"
+      - "Building a life that is so good you don't need a partner to complete it."
+    takeaways:
+      - "There are billions of people; scarcity is an illusion of grief."
+      - "You will love again, and it will be different."
+      - "The goal is a happy life, with or without a partner."
+    narrative:
+      - section: "The open horizon"
+        paragraphs:
+          - "Right now, the future looks blank and scary. That's because you had a map, and it got burned. But a blank map is also an open map."
+          - "You can go anywhere. You are free. The pain will fade. The lessons will remain. And one day, you will look back at this moment not as the end, but as the beginning."
+        exerciseAfter: 0
+    exercises:
+      - "The Future Letter: Write a letter to yourself 1 year from now. Describe what you hope to have achieved."
+      - "Non-Negotiables: List the top 5 qualities you need in a future partner (based on what was missing in the last one)."
+    homework:
+      - "Create a Vision Board or list for your new life."
+      - "Plan a trip or a major event for 6 months from now to give yourself a horizon point."

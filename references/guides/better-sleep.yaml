@@ -1,0 +1,35 @@
+id: better-sleep
+title: Improving Sleep Quality
+summary: Reset your body clock, wind down effectively, and get restorative rest through consistent habits.
+tags:
+  - Sleep
+  - Recovery
+  - Lifestyle
+keywords:
+  - insomnia
+  - sleep
+  - rest
+sections:
+  - title: Anchor your schedule
+    body:
+      - Wake up within the same 30-minute window daily, even on weekends, to train your internal clock.
+      - Get 10 minutes of morning light by stepping outside or opening blinds soon after waking.
+    highlights:
+      - Limit naps to 20 minutes before 3 p.m. to protect nighttime sleep pressure.
+  - title: Create a wind-down ritual
+    body:
+      - Set an alarm 60 minutes before bedtime to dim lights and switch to calming activities.
+      - Try a breathing pattern such as 4-7-8 or box breathing to reduce sympathetic nervous system activity.
+    tips:
+      - Keep a notepad by the bed to jot down thoughts instead of ruminating.
+  - title: Optimize your sleep environment
+    body:
+      - Keep your room dark, cool (16–19°C), and quiet; consider blackout curtains or white noise if needed.
+      - Reserve the bed for sleep and intimacy only so your brain associates it with rest.
+    highlights:
+      - If you cannot fall asleep within 20 minutes, get up and do something quiet until sleepy again.
+resources:
+  - title: Sleep Foundation Wind-Down Checklist
+    url: https://www.sleepfoundation.org/sleep-hygiene
+  - title: Box Breathing Technique Guide
+    url: https://www.clevelandclinic.org/health/articles/box-breathing

@@ -1,0 +1,172 @@
+id: cbt-codependency
+title: "Reclaiming Boundaries: From Enmeshment to Self"
+condition: "Codependency & Relationship Anxiety"
+summary: "A comprehensive seven-module program designed to help you untangle your sense of self from the needs of others. Using CBT and assertiveness training, you will learn to recognize the 'fawn' response, set guilt-free boundaries, and build relationships based on healthy interdependence rather than fearful enmeshment."
+duration: "7 modules • 8-12 weeks self-paced"
+focusAreas:
+  - "Boundary Setting"
+  - "Assertiveness Training"
+  - "Guilt Tolerance"
+  - "Self-Identity"
+  - "Emotional Autonomy"
+modules:
+  - title: "Module 1 • Diagnosis of the 'Nice'"
+    overview:
+      - "We redefine codependency not as 'loving too much' but as a fear response (fawning). It is a strategy to stay safe."
+      - "We identify the 'Resentmentometer.' If you feel resentful, it means you said 'yes' when you meant 'no.'"
+      - "Psycho-education on the 'Chameleon Effect'—changing your colors to fit the room."
+      - "We introduce the concept of 'Emotional Fusion.' Feeling responsible for other people's feelings."
+    takeaways:
+      - "Codependency is a loss of self in the service of safety."
+      - "Resentment is the primary symptom of a boundary violation."
+      - "You are not responsible for regulating other people's emotions."
+    narrative:
+      - section: "The cost of being 'easy'"
+        paragraphs:
+          - "You pride yourself on being low-maintenance. You go with the flow. You help everyone. But deep down, are you exhausted? Do you secretly wish someone would take care of you for a change?"
+          - "This 'niceness' is a contract. You think: 'If I have no needs, you won't leave me.' But this contract is bankrupt. It leaves you invisible. It is time to stop being easy and start being real."
+        exerciseAfter: 0
+    exercises:
+      - "The Resentment Log: Track moments of resentment this week. What did you agree to? What did you actually want?"
+      - "The 'Yes' Audit: For every 'Yes' you say this week, ask yourself: 'Did I say yes out of desire or out of fear?'"
+    homework:
+      - "Log 3 instances of 'Fear-based Yes'."
+      - "Write a definition of who you are *outside* of your roles (mother, partner, employee)."
+
+  - title: "Module 2 • The Architecture of Boundaries"
+    overview:
+      - "What is a boundary? It is not a wall; it is a gate. You have the key."
+      - "We distinguish between Porous, Rigid, and Healthy boundaries."
+      - "We identify your 'Property Line.' What falls inside your yard (your feelings, your body, your time) vs. their yard (their feelings, their choices)."
+      - "Cognitive Restructuring for 'Selfishness.' Reframing self-care as self-preservation."
+    takeaways:
+      - "Boundaries define where you end and the other person begins."
+      - "Rigid boundaries keep love out; porous boundaries let harm in."
+      - "Saying no to them is saying yes to you."
+    narrative:
+      - section: "Your emotional yard"
+        paragraphs:
+          - "Imagine you have a house with a yard. In codependency, you have no fence. Anyone walks in, tramples your flowers, and parks on your lawn. You run around trying to fix their yards while yours is a mess."
+          - "We are building a fence. It has a gate. You get to decide who comes in. And crucially, you stop mowing your neighbor's lawn. Their weeds are their problem."
+        exerciseAfter: 0
+    exercises:
+      - "The Fence Visualization: Draw your property line. List what is inside (My mood, my money) and outside (Mom's mood, Partner's addiction)."
+      - "The 'Not My Job' List: Write a list of things you are currently managing that are actually other people's responsibilities."
+    homework:
+      - "Identify one item from the 'Not My Job' list and stop doing it."
+      - "Practice saying 'I need to think about that' instead of an immediate 'Yes'."
+
+  - title: "Module 3 • Tolerating the Guilt Gap"
+    overview:
+      - "Setting a boundary triggers guilt. This module teaches you to tolerate that guilt without collapsing."
+      - "We distinguish 'Clean Guilt' (I hurt someone) from 'False Guilt' (I disappointed someone)."
+      - "Exposure therapy for saying 'No.' We treat the discomfort of saying no as something to be felt, not fixed."
+      - "The 'Guilt Gap' concept: The time between setting the boundary and the guilt fading."
+    takeaways:
+      - "Guilt is the price of admission for a free life."
+      - "Just because you feel guilty doesn't mean you did something wrong."
+      - "Others' disappointment is not your danger."
+    narrative:
+      - section: "Sitting in the fire"
+        paragraphs:
+          - "When you finally say 'No, I can't come,' a wave of heat will wash over you. You will think, 'I'm a bad person. They hate me.' This is the fire."
+          - "Codependency urges you to run out of the fire by fixing it: 'Just kidding, I'll come!' But we are going to learn to sit in the fire. We will watch it burn. And we will notice that you do not turn to ash. You survive."
+        exerciseAfter: 0
+    exercises:
+      - "The Guilt Delay: When you feel guilty, wait 10 minutes before apologizing or fixing it. Often the feeling passes."
+      - "Reframing: Replace 'I feel guilty' with 'I feel uncomfortable because I am doing something new.'"
+    homework:
+      - "Set one small boundary that provokes mild guilt. Sit with the feeling for 30 minutes without fixing it."
+      - "Journal the experience."
+
+  - title: "Module 4 • Assertive Communication"
+    overview:
+      - "Moving from Passive (doormat) or Passive-Aggressive (hinting) to Assertive."
+      - "The 'DEAR MAN' script from DBT adapted for boundaries."
+      - "Learning to say 'No' without over-explaining. 'No' is a complete sentence."
+      - "Handling pushback. When they say 'You've changed,' how to respond."
+    takeaways:
+      - "Over-explaining is a trauma response; keep it simple."
+      - "Assertiveness is kind; clear is kind."
+      - "You can be firm and loving at the same time."
+    narrative:
+      - section: "Stop JADE-ing"
+        paragraphs:
+          - "When we set a boundary, we often JADE: Justify, Argue, Defend, Explain. 'I can't come because my cat is sick and I'm tired and...' You are handing them ammunition to argue."
+          - "Stop JADE-ing. 'I can't make it tonight.' Simple. Clean. Strong. It feels rude, but it is actually respectful."
+        exerciseAfter: 0
+    exercises:
+      - "Script Writing: Write a script for a boundary you need to set. Remove all JADE-ing."
+      - "The Broken Record: Practice repeating your boundary ('I'm not able to help') without adding new excuses."
+    homework:
+      - "Deliver your script to the person (or a low-stakes person first)."
+      - "Practice the 'Broken Record' technique."
+
+  - title: "Module 5 • Detaching with Love"
+    overview:
+      - "How to love someone without being enmeshed. Specifically for relationships with addicts or high-conflict people."
+      - "The concept of 'Detachment.' You can care about them without carrying them."
+      - "Stopping the 'Rescue.' Why saving them actually prevents their growth."
+      - "Focusing back on your own life."
+    takeaways:
+      - "You cannot save people from their own karma."
+      - "Detachment is not abandonment; it is allowing them the dignity of their own consequences."
+      - "Your stability is the best thing you can offer them."
+    narrative:
+      - section: "Retiring the lifeguard"
+        paragraphs:
+          - "You have been the lifeguard, swimming out to save them every time they struggle. But they are learning that they don't need to swim because you will always save them."
+          - "It is time to retire. Sit on the beach. You can cheer them on. You can love them. But you stay dry. If they sink, they might finally learn to kick."
+        exerciseAfter: 0
+    exercises:
+      - "The Rescue Audit: List ways you are rescuing someone (giving money, lying for them, listening to the same complaint). Stop one."
+      - "The 'My Life' Pie Chart: Draw a chart of your mental energy. How much is about them? How much is about you? Redraw it how you want it."
+    homework:
+      - "Practice one act of detachment (e.g., not offering advice when they complain)."
+      - "Spend that energy on a hobby for yourself."
+
+  - title: "Module 6 • Knowing Your Needs"
+    overview:
+      - "Codependents are experts on others' needs and strangers to their own."
+      - "Reconnecting with the body. What do *I* want to eat? Where do *I* want to go?"
+      - "Validating your own reality. Trusting your gut."
+      - "Asking for what you want directly."
+    takeaways:
+      - "You have needs, and they are valid."
+      - "It is your job to express your needs, not their job to guess them."
+      - "Self-trust is the antidote to codependency."
+    narrative:
+      - section: "The invisible self"
+        paragraphs:
+          - "If I asked you what your partner wants for dinner, you'd know instantly. If I ask you, you might say, 'I don't care.' You have become invisible to yourself."
+          - "We are going to start small. What color do *you* like? What temperature do *you* like? We are excavating the person buried under all that niceness."
+        exerciseAfter: 0
+    exercises:
+      - "The Preference Practice: Make 3 trivial decisions today based solely on what you want (coffee vs tea, walk vs sit)."
+      - "The Direct Ask: Ask for one thing from a partner or friend. 'Could you please take out the trash?' No hinting."
+    homework:
+      - "Go on a 'date' with yourself to a place you want to go, just because you want to."
+      - "Journal: 'Today I wanted...'"
+
+  - title: "Module 7 • Interdependence: The Goal"
+    overview:
+      - "We are not aiming for isolation; we are aiming for healthy interdependence."
+      - "What a healthy relationship looks like: Two whole people, not two halves."
+      - "Reciprocity check. Are you giving and receiving?"
+      - "Maintaining boundaries while deepening intimacy."
+    takeaways:
+      - "Dependency is 'I need you to survive.' Interdependence is 'I can survive alone, but I choose you.'"
+      - "Vulnerability requires boundaries."
+      - "You are safe to be yourself."
+    narrative:
+      - section: "Two trees"
+        paragraphs:
+          - "Khalil Gibran wrote: 'Stand together yet not too near together: For the pillars of the temple stand apart, and the oak tree and the cypress grow not in each other's shadow.'"
+          - "You have been growing in their shadow. Now you will grow tall on your own. And your branches can touch, but your roots are your own. This is freedom. This is love."
+        exerciseAfter: 0
+    exercises:
+      - "Relationship Inventory: Evaluate your core relationships. Which are interdependent? Which are codependent?"
+      - "The Vow to Self: Write a vow to never abandon yourself again."
+    homework:
+      - "Share your new definition of the relationship with a safe person."
+      - "Celebrate your graduation from the school of people-pleasing."

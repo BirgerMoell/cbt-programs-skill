@@ -1,0 +1,267 @@
+id: cbt-smoking-cessation
+title: "Freedom from Smoking: A CBT Approach to Quitting"
+condition: "Smoking Cessation"
+summary: "An evidence-based CBT program designed to help you quit smoking and stay quit. This program addresses the psychological and behavioral aspects of smoking, teaches craving management techniques, provides relapse prevention strategies, and helps you build a smoke-free identity. Learn to break free from nicotine dependence and create a healthier life."
+duration: "6 modules • 8-12 weeks self-paced"
+focusAreas:
+  - "Understanding Nicotine Dependence"
+  - "Craving Management"
+  - "Trigger Identification & Avoidance"
+  - "Relapse Prevention"
+  - "Building a Smoke-Free Identity"
+modules:
+  - title: "Module 1 • Understanding Your Relationship with Smoking"
+    overview:
+      - "We begin by exploring your personal history with smoking. When did you start? Why? What role does smoking play in your life now?"
+      - "You will learn about 'Nicotine Dependence'—how nicotine affects your brain and creates physical and psychological dependence."
+      - "We explore 'The Functions of Smoking'—what smoking does for you (stress relief, social connection, habit, etc.). Understanding these functions helps you find alternatives."
+      - "The concept of 'Smoking Triggers' is introduced—situations, emotions, or thoughts that cue the urge to smoke."
+      - "You will complete a 'Smoking Pattern Assessment'—tracking when, where, why, and with whom you smoke to identify patterns."
+      - "We address 'Motivation & Readiness'—assessing your readiness to quit and strengthening your motivation."
+      - "Finally, we set the foundation: Quitting smoking is a process, not an event. It requires preparation, support, and persistence."
+    takeaways:
+      - "Understanding why you smoke helps you quit effectively."
+      - "Smoking serves multiple functions; you'll need alternatives for each."
+      - "Triggers are predictable; knowing them helps you prepare."
+      - "Readiness and motivation are key to successful quitting."
+    narrative:
+      - section: "Your smoking story"
+        paragraphs:
+          - "Every smoker has a story. Maybe you started as a teenager, trying to fit in. Maybe you started during a stressful time, seeking relief. Maybe you can't even remember why—it just became part of who you are."
+          - "Smoking isn't just a habit—it's a relationship. It's been there through stress, celebrations, boredom, and routine. It's served functions: stress relief, social connection, time management, emotional regulation."
+          - "To quit successfully, you need to understand this relationship. What does smoking do for you? What will you need instead? This understanding is the foundation of change."
+        exerciseAfter: 0
+      - section: "The nicotine trap"
+        paragraphs:
+          - "Nicotine is one of the most addictive substances. It reaches your brain in seconds, releasing dopamine—the 'feel good' chemical. Your brain learns: 'Smoking = pleasure.'"
+          - "But here's the trap: The pleasure is temporary. Soon, you need nicotine just to feel normal. Without it, you feel anxious, irritable, restless. So you smoke again. The cycle continues."
+          - "Understanding this cycle helps. You're not weak-willed. You're dealing with a powerful addiction. But addiction can be overcome. Millions of people have quit. You can too."
+        exerciseAfter: 1
+      - section: "Why now?"
+        paragraphs:
+          - "Why do you want to quit? Health? Money? Family? Freedom? Your reasons matter. They're your motivation. They're what will carry you through cravings and challenges."
+          - "But motivation alone isn't enough. You also need readiness. Are you ready to face withdrawal? To change routines? To find new ways to cope? Readiness is about being prepared for the process."
+          - "We're going to strengthen both. We're going to clarify your reasons. We're going to prepare you for the journey. We're going to build your confidence."
+        exerciseAfter: 2
+    exercises:
+      - "The Smoking History Timeline: Write your smoking story. When did you start? Why? How has your relationship with smoking changed over time?"
+      - "The Function Analysis: List all the functions smoking serves for you (stress relief, social, habit, etc.). For each, rate how important it is (1-10)."
+      - "The Smoking Pattern Log: Track your smoking for 3 days. Record: time, location, situation, emotions, who you're with, what you're doing. Identify patterns."
+    homework:
+      - "Continue your Smoking Pattern Log for 4 more days. The longer you track, the clearer patterns become."
+      - "List Your Reasons to Quit: Write down all reasons you want to quit. Be specific. Review this list daily. Add to it as you think of more reasons."
+      - "Assess Your Readiness: On a scale of 1-10, how ready are you to quit? What would need to change to increase your readiness?"
+
+  - title: "Module 2 • Preparing to Quit: Building Your Quit Plan"
+    overview:
+      - "This module focuses on preparation—the critical phase before quitting that significantly increases success rates."
+      - "We explore 'Quit Date Selection'—choosing the right time to quit, considering stress levels, support availability, and life circumstances."
+      - "You will learn 'Trigger Identification & Planning'—anticipating your triggers and creating specific plans for managing them."
+      - "The concept of 'Alternative Coping Strategies' is introduced—building a toolkit of non-smoking ways to meet the functions smoking currently serves."
+      - "We address 'Social Support'—identifying people who can support your quit attempt and how to enlist their help."
+      - "You will create a 'Quit Plan'—a comprehensive, personalized plan for your quit attempt."
+      - "Finally, we practice 'Confidence Building'—addressing doubts and building belief in your ability to quit."
+    takeaways:
+      - "Preparation significantly increases quit success rates."
+      - "Having a plan for triggers prevents impulsive smoking."
+      - "Social support is crucial—quitting alone is harder."
+      - "Building alternatives before quitting makes the transition smoother."
+    narrative:
+      - section: "The preparation phase"
+        paragraphs:
+          - "Many people try to quit impulsively. They throw away their cigarettes and hope willpower is enough. But willpower is finite. When cravings hit, when stress spikes, when routines are disrupted, willpower often fails."
+          - "Preparation changes this. When you prepare, you anticipate challenges. You build alternatives. You create support systems. You increase your chances of success."
+          - "The preparation phase is active. You're not just waiting to quit—you're building the foundation for success."
+        exerciseAfter: 0
+      - section: "Your quit plan"
+        paragraphs:
+          - "A quit plan is your roadmap. It includes: your quit date, your triggers and how you'll handle them, your alternative coping strategies, your support system, your reasons for quitting."
+          - "This plan isn't rigid—it's flexible. You can adjust it. But having it gives you direction. When cravings hit, you know what to do. When challenges arise, you have strategies."
+          - "We're going to create your plan together. We're going to make it specific. We're going to make it yours."
+        exerciseAfter: 1
+      - section: "Building alternatives"
+        paragraphs:
+          - "Smoking serves functions. To quit successfully, you need alternatives. If smoking relieves stress, you need stress management techniques. If it's social, you need social alternatives. If it's habit, you need new habits."
+          - "We're going to build these alternatives now, before you quit. You'll practice them. You'll get comfortable with them. When you quit, they'll be ready."
+          - "This isn't about replacing smoking perfectly. It's about having options. Multiple tools for multiple situations. A toolkit for your smoke-free life."
+        exerciseAfter: 2
+    exercises:
+      - "The Trigger Map: List all situations, emotions, people, places, or times that trigger smoking. For each, create a specific plan: 'If [trigger], then I will [alternative strategy].'"
+      - "Build Your Alternative Toolkit: For each function smoking serves, list 3-5 alternatives. Include immediate strategies (breathing) and longer-term strategies (exercise, hobbies)."
+      - "Create Your Support Network: List 3-5 people who can support your quit attempt. How will you ask for their help? What specific support do you need?"
+    homework:
+      - "Set Your Quit Date: Choose a date 1-2 weeks away. Consider: low-stress period, support available, time to prepare. Mark it on your calendar."
+      - "Practice Your Alternatives: Before your quit date, practice 3 alternative strategies daily. Get comfortable with them. Notice which work best."
+      - "Finalize Your Quit Plan: Write it down. Include quit date, triggers and plans, alternatives, support system, reasons to quit. Review it daily until quit date."
+
+  - title: "Module 3 • Managing Cravings & Withdrawal"
+    overview:
+      - "This module addresses the immediate challenges of quitting: cravings and withdrawal symptoms."
+      - "We explore 'Understanding Cravings'—what they are, why they happen, and how long they typically last."
+      - "You will learn 'Craving Management Techniques'—practical strategies for riding out cravings without smoking."
+      - "The concept of 'Urge Surfing' is introduced—observing cravings without acting on them, knowing they will pass."
+      - "We address 'Withdrawal Symptoms'—what to expect (irritability, anxiety, difficulty concentrating, etc.) and how to manage them."
+      - "You will practice 'Distraction Techniques'—engaging your mind and body to reduce craving intensity."
+      - "Finally, we create a 'Craving Emergency Kit'—immediate strategies you can use when cravings are intense."
+    takeaways:
+      - "Cravings are temporary—they peak and then subside, usually within 5-10 minutes."
+      - "Urge surfing—observing without acting—reduces craving power."
+      - "Withdrawal symptoms are temporary and manageable."
+      - "Distraction and alternative activities can reduce craving intensity."
+    narrative:
+      - section: "The craving wave"
+        paragraphs:
+          - "When you quit, cravings will come. They'll feel urgent. 'I need a cigarette now.' But here's what you need to know: Cravings are waves. They build, peak, and then subside."
+          - "Most cravings last 5-10 minutes. If you can ride them out—if you can surf the wave without acting—they pass. Each time you do this, cravings get weaker. Your confidence grows."
+          - "We're going to teach you to surf. To observe the craving. To breathe through it. To distract yourself. To wait it out. Because it will pass."
+        exerciseAfter: 0
+      - section: "Understanding withdrawal"
+        paragraphs:
+          - "When you quit, your body adjusts. It's used to nicotine. Without it, you might feel irritable, anxious, restless, foggy. These are withdrawal symptoms. They're normal. They're temporary."
+          - "Withdrawal peaks in the first few days, then gradually decreases. Most physical symptoms are gone within a week. Psychological cravings can last longer, but they get weaker."
+          - "Knowing what to expect helps. You're not going crazy. You're not weak. You're experiencing normal withdrawal. And it will pass."
+        exerciseAfter: 1
+      - section: "Riding it out"
+        paragraphs:
+          - "The key to managing cravings is not fighting them, but riding them out. Like a wave, you can't stop it, but you can surf it."
+          - "Urge surfing means noticing the craving. Feeling it in your body. Observing your thoughts. Breathing. Waiting. Knowing it will pass."
+          - "You can also distract yourself. Engage in an activity. Move your body. Call someone. Do something with your hands. Cravings lose power when your attention is elsewhere."
+        exerciseAfter: 2
+    exercises:
+      - "The Craving Observation Practice: Next time you have a craving (before or after quitting), observe it. Where do you feel it? What thoughts come? How long does it last? Practice urge surfing."
+      - "Create Your Distraction List: List 20 activities you can do when cravings hit (walk, call friend, puzzle, clean, etc.). Keep this list accessible."
+      - "Build Your Craving Emergency Kit: List 5 immediate strategies for intense cravings (breathing, cold water, movement, etc.). Practice them. Have them ready."
+    homework:
+      - "Practice urge surfing with current cravings (if still smoking) or past cravings (if quit). Notice how observing changes the experience."
+      - "Use distraction techniques when cravings hit. Try different activities. Notice which are most effective for you."
+      - "If experiencing withdrawal, track symptoms. Notice patterns: When are they worst? What helps? Remember: They're temporary."
+
+  - title: "Module 4 • Relapse Prevention: Staying Quit"
+    overview:
+      - "This module focuses on the critical skill of relapse prevention—maintaining your quit long-term."
+      - "We explore 'The Relapse Process'—understanding that relapse is usually a process, not a single event, and learning to recognize warning signs."
+      - "You will learn 'High-Risk Situations'—identifying situations that increase relapse risk and creating specific plans for managing them."
+      - "The concept of 'Lapse vs. Relapse' is introduced. A lapse (one cigarette) doesn't have to become a relapse (return to regular smoking)."
+      - "We address 'Cognitive Factors in Relapse'—thoughts that can lead to smoking ('just one won't hurt,' 'I've already failed') and how to challenge them."
+      - "You will practice 'Problem-Solving for Challenges'—systematic approaches to addressing obstacles that arise."
+      - "Finally, we create a 'Relapse Prevention Plan'—a personalized system for maintaining your quit long-term."
+    takeaways:
+      - "Relapse is usually a process with warning signs—recognizing them early helps prevent relapse."
+      - "High-risk situations are predictable—having a plan prevents impulsive smoking."
+      - "A lapse doesn't have to become a relapse—how you respond matters."
+      - "Challenging unhelpful thoughts prevents cognitive relapse."
+    narrative:
+      - section: "The relapse process"
+        paragraphs:
+          - "Relapse doesn't usually happen suddenly. It's a process. First, you might stop using your strategies. Then, you might start thinking about smoking. Then, you might romanticize it. Then, you might have 'just one.'"
+          - "But you can interrupt this process. If you recognize warning signs early, you can intervene. You can return to your strategies. You can prevent a lapse from becoming a relapse."
+          - "We're going to teach you to recognize warning signs. We're going to help you create a plan. We're going to build your relapse prevention skills."
+        exerciseAfter: 0
+      - section: "High-risk situations"
+        paragraphs:
+          - "Some situations are riskier than others. Stressful events. Social situations with smokers. Alcohol. Emotional states. These are your high-risk situations."
+          - "Knowing your risks helps you prepare. You can avoid some situations early in your quit. For others, you can create specific plans. You can have strategies ready."
+          - "We're going to identify your high-risk situations. We're going to create plans for each. We're going to prepare you for challenges."
+        exerciseAfter: 1
+      - section: "Lapse vs. relapse"
+        paragraphs:
+          - "If you smoke one cigarette, that's a lapse. It's a mistake. It's not ideal, but it doesn't have to be the end."
+          - "A relapse is returning to regular smoking. That's what we want to prevent."
+          - "The difference? How you respond. If you have a lapse and think 'I've failed, I might as well keep smoking,' that's a relapse. If you think 'That was a mistake, I'm getting back on track,' that's recovery."
+          - "We're going to prepare you for lapses. We're going to help you respond effectively. We're going to prevent lapses from becoming relapses."
+        exerciseAfter: 2
+    exercises:
+      - "The Warning Signs Checklist: List warning signs that might precede relapse (stopping strategies, thinking about smoking, avoiding support, etc.). Review this weekly."
+      - "Identify Your High-Risk Situations: List 5-7 situations that increase your risk of smoking. For each, create a specific prevention plan."
+      - "The Lapse Response Plan: Write down: 'If I have a lapse (smoke one cigarette), I will...' Create a specific recovery plan."
+    homework:
+      - "Review your Warning Signs Checklist weekly. If you notice any signs, take action immediately. Return to your strategies."
+      - "Practice your High-Risk Situation plans. Visualize yourself in these situations, using your strategies successfully."
+      - "If you have a lapse, use your Lapse Response Plan. Don't let one cigarette become a relapse. Get back on track immediately."
+
+  - title: "Module 5 • Building a Smoke-Free Identity & Lifestyle"
+    overview:
+      - "This module focuses on the longer-term work of building a smoke-free identity and lifestyle."
+      - "We explore 'Identity Change'—shifting from 'I'm a smoker' to 'I'm a non-smoker' or 'I'm an ex-smoker.'"
+      - "You will learn 'Reward Systems'—celebrating milestones and rewarding yourself for staying quit."
+      - "The concept of 'New Routines' is introduced—building new habits and routines that don't involve smoking."
+      - "We address 'Social Changes'—navigating social situations, relationships with smokers, and building a smoke-free social life."
+      - "You will practice 'Values-Based Living'—identifying what matters to you and how quitting supports those values."
+      - "Finally, we create a 'Smoke-Free Lifestyle Plan'—a vision for your life as a non-smoker."
+    takeaways:
+      - "Identity change supports behavior change—seeing yourself as a non-smoker helps you stay quit."
+      - "Celebrating milestones reinforces your quit and builds confidence."
+      - "New routines replace old smoking routines, making quitting easier."
+      - "Living according to your values provides motivation to stay quit."
+    narrative:
+      - section: "Who are you now?"
+        paragraphs:
+          - "When you quit smoking, you're not just changing a behavior—you're changing your identity. You're moving from 'I'm a smoker' to 'I'm a non-smoker.'"
+          - "This identity shift matters. If you still see yourself as a smoker who's 'trying to quit,' every craving feels like a battle. But if you see yourself as a non-smoker, cravings are just temporary discomforts."
+          - "We're going to build this identity. Through actions. Through language. Through evidence. Every day you don't smoke is evidence: I am a non-smoker."
+        exerciseAfter: 0
+      - section: "Building new routines"
+        paragraphs:
+          - "Smoking was woven into your routines. Morning coffee and cigarette. After meals. Work breaks. These routines are triggers. You need new routines."
+          - "We're going to build smoke-free routines. New ways to start your day. New ways to take breaks. New ways to handle transitions. Routines that don't involve smoking."
+          - "This takes time. But gradually, these new routines become automatic. They become your new normal. Smoking becomes a distant memory."
+        exerciseAfter: 1
+      - section: "Your smoke-free life"
+        paragraphs:
+          - "Quitting smoking isn't just about not smoking—it's about building a life where smoking doesn't fit. A life of better health. More energy. More money. More freedom."
+          - "What does your smoke-free life look like? What can you do now that you couldn't before? How does quitting support your values?"
+          - "We're going to create a vision. We're going to build toward it. We're going to make your smoke-free life a reality."
+        exerciseAfter: 2
+    exercises:
+      - "The Identity Shift: Write 'I am a non-smoker' 10 times daily for one week. Notice how this affects your thoughts and cravings."
+      - "Create Your Milestone Rewards: Plan rewards for milestones (1 day, 1 week, 1 month, 3 months, 6 months, 1 year). Make them meaningful. Celebrate your progress."
+      - "Design Your New Routines: Identify 3 old routines that involved smoking. Create new, smoke-free routines to replace them. Practice them for 2 weeks."
+    homework:
+      - "Practice your identity statements daily. 'I am a non-smoker.' 'I don't smoke.' Notice how this language affects your mindset."
+      - "Celebrate your milestones. Use your reward system. Acknowledge your progress. You're doing something difficult—honor that."
+      - "Build your new routines. Replace old smoking routines with smoke-free alternatives. Make them consistent. Make them yours."
+
+  - title: "Module 6 • Long-Term Maintenance & Continued Success"
+    overview:
+      - "The final module focuses on maintaining your quit long-term and handling ongoing challenges."
+      - "We explore 'The Maintenance Phase'—understanding that quitting is a long-term process requiring ongoing attention."
+      - "You will learn 'Ongoing Relapse Prevention'—strategies for maintaining your quit as time passes and life changes."
+      - "The concept of 'Dealing with Slips' is addressed—how to handle lapses if they occur and get back on track."
+      - "We address 'Life Changes & Smoking'—how major life events (stress, celebrations, losses) can trigger smoking urges and how to manage them."
+      - "You will practice 'Problem-Solving for New Challenges'—addressing obstacles that arise as your smoke-free life evolves."
+      - "Finally, we write a 'Smoke-Free Commitment'—a personal statement of your commitment to staying quit long-term."
+    takeaways:
+      - "Maintaining a quit requires ongoing attention and strategies."
+      - "Life changes can trigger smoking urges; having plans helps."
+      - "Slips can happen; how you respond determines the outcome."
+      - "You have the tools and knowledge to stay quit long-term."
+    narrative:
+      - section: "The maintenance phase"
+        paragraphs:
+          - "Quitting smoking isn't a one-time event—it's an ongoing process. As time passes, you'll face new challenges. Stressful events. Social situations. Life changes. These can trigger smoking urges."
+          - "But you have tools. You have strategies. You have experience. You know how to manage cravings. You know how to prevent relapse. You can maintain your quit."
+          - "The maintenance phase is about staying vigilant while also living your life. It's about having plans ready. It's about continuing to use your strategies."
+        exerciseAfter: 0
+      - section: "Life happens"
+        paragraphs:
+          - "Life will bring challenges. Stressful jobs. Relationship problems. Losses. Celebrations. These events can trigger smoking urges, even months or years after quitting."
+          - "But you can prepare. You can anticipate. You can have plans. You can use your strategies. You can stay quit through life's ups and downs."
+          - "We're going to help you prepare for these challenges. We're going to build your resilience. We're going to ensure your quit lasts."
+        exerciseAfter: 1
+      - section: "Your smoke-free future"
+        paragraphs:
+          - "You've quit smoking. That's an incredible achievement. But the work continues. Maintaining your quit is an ongoing commitment."
+          - "But it's also a gift. Every day you don't smoke is a victory. Every craving you ride out is strength. Every challenge you overcome is growth."
+          - "You're building a smoke-free life. One day at a time. One craving at a time. One challenge at a time. You can do this. You are doing this."
+        exerciseAfter: 2
+    exercises:
+      - "Create Your Long-Term Maintenance Plan: List strategies you'll continue using. Include: ongoing trigger management, support systems, alternative coping strategies, identity reinforcement."
+      - "The Life Change Preparation: List potential life changes that might trigger smoking urges (stress, celebrations, losses, etc.). For each, create a prevention plan."
+      - "Write Your Smoke-Free Commitment: In 200-300 words, write your personal commitment to staying quit. Include your reasons, your strategies, and your vision for your smoke-free future."
+    homework:
+      - "Review your Maintenance Plan monthly. Adjust as needed. Continue using your strategies. Stay vigilant."
+      - "Continue celebrating milestones. 3 months, 6 months, 1 year, 2 years—every milestone matters. Honor your progress."
+      - "If you experience a slip, use your Lapse Response Plan immediately. Don't let one cigarette become a relapse. Get back on track."
+      - "Share your Smoke-Free Commitment with someone you trust. Ask them to remind you of it if you ever struggle."
+      - "Continue building your smoke-free life. Every day is an opportunity. Every day you don't smoke is a success. You've got this."
+

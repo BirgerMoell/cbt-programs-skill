@@ -1,0 +1,400 @@
+id: cbt-ptsd-trauma
+title: "Healing from Trauma: Reclaiming Your Life After PTSD"
+condition: "PTSD and Trauma"
+summary: "A compassionate, evidence-based CBT program designed to help you heal from trauma and reclaim your life. Through trauma-informed approaches, cognitive processing, and gradual exposure techniques, you'll learn to process traumatic memories, challenge unhelpful beliefs, and rebuild a sense of safety, meaning, and connection."
+duration: "7 modules • 12-16 weeks self-paced"
+focusAreas:
+  - "Understanding trauma and PTSD"
+  - "Safety and stabilization"
+  - "Trauma processing"
+  - "Cognitive restructuring"
+  - "Gradual exposure"
+  - "Rebuilding meaning and connection"
+  - "Long-term recovery"
+modules:
+  - title: "Module 1 • Understanding Trauma: The Foundation of Healing"
+    overview:
+      - "Trauma is not what happens to you—it's what happens inside you as a result of what happened. This module helps you understand trauma, how it affects the brain and body, and why your responses make sense given what you've experienced."
+      - "We explore Post-Traumatic Stress Disorder (PTSD) and its symptoms: re-experiencing (flashbacks, nightmares), avoidance, negative changes in thoughts and mood, and hyperarousal. Understanding these symptoms helps you see that your responses are normal reactions to abnormal events."
+      - "The module explains how trauma affects the brain—particularly the amygdala, hippocampus, and prefrontal cortex—and why this leads to symptoms like hypervigilance, memory fragmentation, and difficulty regulating emotions."
+      - "You'll learn about the window of tolerance—the optimal zone of arousal where you can process information and regulate emotions. Trauma narrows this window, making it easier to become overwhelmed or shut down."
+      - "Self-monitoring begins here. You'll start tracking your symptoms, triggers, and responses in a safe, structured way. This awareness is the foundation for healing."
+      - "Finally, we emphasize safety and self-compassion. Healing from trauma is possible, but it requires patience, support, and self-kindness. This program provides tools; your courage provides the healing."
+    takeaways:
+      - "Trauma responses are normal reactions to abnormal events—not signs of weakness."
+      - "Understanding how trauma affects the brain helps explain your symptoms."
+      - "Safety and stabilization are the foundation of trauma recovery."
+      - "Self-compassion is essential—healing takes time and patience."
+    narrative:
+      - section: "You are not broken"
+        paragraphs:
+          - "If you're here, you've experienced something that changed you. Maybe it was a single event—an accident, an assault, a natural disaster. Maybe it was ongoing—abuse, neglect, repeated exposure to danger. Maybe it was something that others might minimize, but it shattered your sense of safety."
+          - "Since then, things have been different. You might have nightmares or flashbacks. You might avoid places, people, or situations that remind you of what happened. You might feel constantly on edge, as if danger is always nearby. You might feel disconnected from yourself, from others, from life itself."
+          - "You might have been told to 'just move on' or 'get over it.' You might have tried, only to find it impossible. You might blame yourself, wondering what you could have done differently. You might feel broken, damaged, beyond repair."
+          - "Here's what you need to know: You are not broken. Your responses are not signs of weakness. They are normal reactions to abnormal events. Your brain and body did what they were designed to do—they tried to protect you. The problem is, the threat is over, but your protective system is still activated."
+          - "Healing is possible. You can process what happened. You can reclaim your life. You can find meaning again. This program guides you through that journey, step by step, with compassion and care."
+        exerciseAfter: 0
+      - section: "What is trauma?"
+        paragraphs:
+          - "Trauma occurs when an event or series of events overwhelms your ability to cope. It's not about the event itself—it's about your experience of it. What's traumatic for one person might not be for another, and that's okay. Your experience is valid."
+          - "Trauma can be: Acute—a single event (accident, assault, natural disaster), Chronic—ongoing exposure (abuse, war, repeated violence), Complex—multiple traumatic events, often in childhood (childhood abuse, neglect, domestic violence)."
+          - "Trauma affects everyone differently. Some people develop PTSD; others don't. Some have immediate symptoms; others have delayed reactions. Some recover quickly; others need more time. There's no 'right' way to respond to trauma."
+          - "What matters is that you're here, seeking help. That takes courage. That's the first step toward healing."
+        exerciseAfter: 1
+      - section: "Understanding PTSD"
+        paragraphs:
+          - "Post-Traumatic Stress Disorder (PTSD) is a mental health condition that can develop after experiencing or witnessing a traumatic event. It's characterized by four clusters of symptoms: Re-experiencing—flashbacks, nightmares, intrusive memories, physical reactions to reminders; Avoidance—avoiding thoughts, feelings, places, people, or activities related to the trauma; Negative changes in thoughts and mood—negative beliefs about yourself, others, or the world; feelings of guilt, shame, or blame; loss of interest in activities; feeling detached; Hyperarousal—being constantly on edge, easily startled, difficulty sleeping, irritability, difficulty concentrating."
+          - "These symptoms aren't character flaws—they're your brain's attempt to protect you. Your brain learned that the world is dangerous, and it's trying to keep you safe. The problem is, this protection has become excessive, interfering with your ability to live your life."
+          - "Understanding PTSD helps you see your symptoms as responses to trauma, not personal failures. This shift in perspective is the first step toward healing."
+        exerciseAfter: 2
+      - section: "How trauma affects the brain"
+        paragraphs:
+          - "Trauma literally changes your brain. Understanding this helps explain why recovery takes time and why certain techniques work. When you experience trauma, three key brain areas are affected: The amygdala—your brain's alarm system, becomes hyperactive, constantly scanning for danger; The hippocampus—involved in memory, becomes impaired, leading to fragmented memories and difficulty distinguishing past from present; The prefrontal cortex—involved in reasoning and emotion regulation, becomes less active, making it harder to think clearly and regulate emotions."
+          - "This explains why you might: Feel constantly on edge (hyperactive amygdala), Have fragmented or unclear memories (impaired hippocampus), Struggle to think clearly or regulate emotions (less active prefrontal cortex), Experience flashbacks as if the trauma is happening now (amygdala overriding prefrontal cortex)."
+          - "The good news? The brain is plastic—it can change. With the right interventions, you can recalibrate these systems. Your amygdala can learn that you're safe. Your hippocampus can integrate memories. Your prefrontal cortex can regain control. Healing is possible."
+        exerciseAfter: 3
+      - section: "The window of tolerance"
+        paragraphs:
+          - "The window of tolerance is the optimal zone of arousal where you can process information, regulate emotions, and function effectively. When you're within this window, you can think clearly, feel your feelings without being overwhelmed, and respond rather than react."
+          - "Trauma narrows this window. You might find yourself easily pushed into: Hyperarousal—feeling overwhelmed, anxious, panicky, unable to think clearly, or Hypoarousal—feeling numb, disconnected, shut down, unable to feel anything."
+          - "Recovery involves widening your window of tolerance. You learn to: Recognize when you're outside your window, Use grounding techniques to return to it, Gradually expand it through practice and support."
+          - "This takes time. Be patient with yourself. Every small step counts."
+        exerciseAfter: 4
+    exercises:
+      - "Safety Assessment: Identify what helps you feel safe right now. This might include: People, Places, Activities, Objects, Practices. Create a list you can refer to when you need support."
+      - "Symptom Tracking: For one week, track your PTSD symptoms. Note: Which symptoms appear, When they occur, What triggers them, How intense they are (1-10), What helps. Track without judgment—just observe."
+      - "Window of Tolerance Check-In: Three times per day, check in with yourself: 'Where am I right now? Am I in my window of tolerance, hyperaroused, or hypoaroused? What do I need?'"
+      - "Self-Compassion Practice: When you notice difficult symptoms or responses, practice self-compassion: 'This is a normal response to trauma. I'm doing my best. Healing takes time.'"
+    homework:
+      - "Complete your Safety Assessment. Keep this list accessible. Add to it as you discover new sources of safety."
+      - "Maintain your Symptom Tracking for one week. Review patterns without judgment. Notice what triggers symptoms and what helps."
+      - "Practice Window of Tolerance Check-Ins daily. Notice patterns in when you're in or out of your window."
+      - "Write a compassionate letter to yourself about your trauma experience. Acknowledge how difficult it's been, validate your responses, and remind yourself that healing is possible."
+  - title: "Module 2 • Safety and Stabilization: Building Your Foundation"
+    overview:
+      - "Safety is the foundation of trauma recovery. Before you can process traumatic memories, you need to feel safe in your body and in your environment. This module focuses on building safety and stabilization skills."
+      - "We explore grounding techniques—practical tools for staying present when you feel overwhelmed or disconnected. These techniques help you return to the present moment when trauma responses pull you into the past."
+      - "The module introduces emotional regulation skills—ways to manage intense emotions without becoming overwhelmed or shutting down. These skills widen your window of tolerance."
+      - "You'll learn about creating physical safety—making your environment feel safe and secure. This might include changes to your living space, routines, or boundaries with others."
+      - "We explore the importance of social support and healthy boundaries. Trauma can make it hard to trust others, but connection is essential for healing. You'll learn to identify safe people and set boundaries that protect you."
+      - "Finally, we introduce self-care practices that support your nervous system. Trauma takes a toll on your body. Taking care of yourself physically, emotionally, and spiritually is essential for recovery."
+    takeaways:
+      - "Safety and stabilization must come before trauma processing."
+      - "Grounding techniques help you stay present when trauma responses pull you into the past."
+      - "Emotional regulation skills widen your window of tolerance."
+      - "Healthy boundaries protect you while allowing connection."
+    narrative:
+      - section: "Safety first"
+        paragraphs:
+          - "Before you can process trauma, you need to feel safe. This might seem obvious, but it's often overlooked. Many people try to process trauma before they have the skills to manage the intense emotions and responses that processing can trigger."
+          - "Safety isn't just physical—it's emotional, psychological, and relational. You need to feel safe: In your body—able to tolerate sensations without becoming overwhelmed, In your environment—your living space feels secure, In relationships—you can trust others and set boundaries, With yourself—you can be with your own experience without judgment."
+          - "Building safety takes time. It's not something you achieve once and then move on. It's an ongoing practice. Every day, you check in: 'Do I feel safe? What do I need to feel safer? What can I do right now?'"
+          - "This module gives you tools to build and maintain safety. These tools become your foundation—something you can return to whenever you need support."
+        exerciseAfter: 0
+      - section: "Grounding: Coming back to the present"
+        paragraphs:
+          - "When trauma responses are activated, you might feel like you're back in the past, reliving what happened. Grounding techniques help you return to the present moment, reminding you that the trauma is over, that you're safe now."
+          - "Grounding techniques work by engaging your senses and your body, pulling your attention away from traumatic memories and into the present. They include: 5-4-3-2-1 technique—name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste; Body scan—slowly notice sensations throughout your body; Anchoring—hold an object and notice its texture, weight, temperature; Movement—gentle stretching, walking, or other physical activity; Breath awareness—focus on your breath, noticing each inhale and exhale."
+          - "Practice these techniques when you're relatively calm, so they're available when you need them. Over time, they become automatic responses that help you stay present."
+        exerciseAfter: 1
+      - section: "Emotional regulation: Managing intense feelings"
+        paragraphs:
+          - "Trauma can make emotions feel overwhelming. You might swing between feeling too much (hyperarousal) and feeling nothing at all (hypoarousal). Emotional regulation skills help you find balance."
+          - "Key skills include: Recognizing emotions—'What am I feeling right now?'; Naming emotions—giving language to your experience; Tolerating emotions—sitting with difficult feelings without acting on them impulsively; Soothing emotions—using techniques to calm your nervous system; Expressing emotions—finding healthy ways to express what you feel."
+          - "These skills take practice. Start small. Notice one emotion per day. Name it. Sit with it for a moment. Over time, you'll get better at regulating your emotions."
+        exerciseAfter: 2
+      - section: "Creating physical safety"
+        paragraphs:
+          - "Your environment affects your sense of safety. Creating physical safety might involve: Making your living space feel secure (locks, lighting, organization), Establishing routines that provide predictability, Creating a safe space—a corner of your home where you feel calm, Setting boundaries with others about your space and needs, Reducing triggers—removing or minimizing things that remind you of trauma."
+          - "This doesn't mean avoiding everything forever—it means creating enough safety that you can gradually face triggers when you're ready. Safety first, then exposure."
+        exerciseAfter: 3
+      - section: "Social support and boundaries"
+        paragraphs:
+          - "Trauma can make it hard to trust others. You might feel isolated, disconnected, or afraid of being hurt again. But connection is essential for healing. The challenge is finding safe people and setting healthy boundaries."
+          - "Safe people are those who: Listen without judgment, Respect your boundaries, Support your healing without trying to fix you, Don't minimize your experience, Are consistent and reliable."
+          - "Healthy boundaries protect you while allowing connection. They might include: Saying no when you need to, Asking for what you need, Limiting contact with people who aren't safe, Protecting your time and energy, Communicating your limits clearly."
+          - "Setting boundaries can be scary, especially if trauma taught you that your needs don't matter. But boundaries are essential for safety and healing."
+        exerciseAfter: 4
+    exercises:
+      - "Grounding Techniques Practice: Practice each grounding technique daily for one week. Notice which ones work best for you. Create a personal grounding toolkit."
+      - "Emotional Check-In: Three times per day, check in with your emotions: 'What am I feeling? Where do I feel it in my body? What do I need?' Practice naming and tolerating emotions."
+      - "Safety Space Creation: Create a physical safe space in your home. This might be a corner, a room, or even a chair. Make it comfortable, calming, and yours. Spend time there daily."
+      - "Boundary Practice: Identify one boundary you need to set. Practice setting it clearly and kindly. Notice how it feels to protect yourself."
+      - "Support System Map: Identify people in your life. Categorize them: Safe and supportive, Unsafe or unsupportive, Neutral. Focus on building relationships with safe people."
+    homework:
+      - "Practice grounding techniques daily. Use them whenever you feel overwhelmed or disconnected. Notice which techniques work best for you."
+      - "Complete your Safety Space. Spend at least 10 minutes there daily, practicing grounding or simply being present."
+      - "Practice emotional check-ins three times per day. Build your capacity to recognize, name, and tolerate emotions."
+      - "Set one boundary this week. Practice protecting yourself while staying connected to safe people."
+  - title: "Module 3 • Understanding Trauma's Impact: Beliefs and Meaning"
+    overview:
+      - "Trauma doesn't just affect your memories—it affects your beliefs about yourself, others, and the world. These beliefs, called 'stuck points,' can keep you trapped in trauma responses long after the event is over."
+      - "We explore common stuck points in trauma: safety ('The world is dangerous'), trust ('I can't trust anyone'), power ('I'm powerless'), esteem ('I'm damaged/broken'), and intimacy ('I don't deserve love')."
+      - "The module helps you identify your own stuck points—beliefs that developed as a result of trauma and that now interfere with your life. These beliefs feel true, but they're interpretations, not facts."
+      - "You'll learn to recognize how stuck points affect your thoughts, feelings, and behaviors. Understanding this connection helps you see how changing beliefs can change your life."
+      - "We introduce the concept of 'assimilation' and 'accommodation'—how trauma can lead you to either blame yourself (assimilation) or see the world as entirely dangerous (accommodation). Recovery involves finding balance."
+      - "Finally, we begin the process of challenging stuck points, gently and compassionately. You'll learn that beliefs can change, that you can develop new, more balanced perspectives that honor your experience while allowing you to move forward."
+    takeaways:
+      - "Trauma affects your beliefs about yourself, others, and the world."
+      - "Stuck points are beliefs that developed from trauma and now interfere with your life."
+      - "Understanding how beliefs affect thoughts, feelings, and behaviors is key to change."
+      - "Beliefs can be challenged and changed—they're interpretations, not facts."
+    narrative:
+      - section: "The beliefs trauma creates"
+        paragraphs:
+          - "After trauma, your beliefs about the world change. This makes sense—something terrible happened, and your brain is trying to make sense of it. But sometimes, the beliefs that develop are too extreme, too absolute, keeping you stuck in trauma responses."
+          - "These beliefs are called 'stuck points'—thoughts that feel true but that developed from trauma and now interfere with your life. Common stuck points include: 'The world is dangerous' (safety), 'I can't trust anyone' (trust), 'I'm powerless' (power), 'I'm damaged/broken' (esteem), 'I don't deserve love' (intimacy)."
+          - "These beliefs feel true because they developed from real experience. But they're interpretations, not facts. The world can be dangerous AND safe. You can trust some people AND protect yourself. You can be affected by trauma AND still be whole."
+          - "Recovery involves examining these beliefs, challenging the ones that are too extreme, and developing more balanced perspectives that honor your experience while allowing you to move forward."
+        exerciseAfter: 0
+      - section: "Five areas of belief"
+        paragraphs:
+          - "Trauma typically affects five areas of belief: Safety—beliefs about how safe the world is ('The world is dangerous,' 'I'm not safe anywhere'); Trust—beliefs about whether others can be trusted ('I can't trust anyone,' 'People will hurt me'); Power—beliefs about control and agency ('I'm powerless,' 'I have no control'); Esteem—beliefs about self-worth ('I'm damaged,' 'I'm broken,' 'It's my fault'); Intimacy—beliefs about relationships ('I don't deserve love,' 'I'm unlovable')."
+          - "These beliefs developed as your brain tried to make sense of what happened. They served a purpose—they tried to protect you. But now, they're too extreme, keeping you stuck."
+          - "Recovery involves examining each area, identifying your stuck points, and developing more balanced beliefs. This doesn't mean denying what happened—it means finding perspectives that are accurate AND allow you to live fully."
+        exerciseAfter: 1
+      - section: "Assimilation vs. accommodation"
+        paragraphs:
+          - "When trauma happens, your brain tries to make sense of it in two ways: Assimilation—fitting the trauma into your existing beliefs ('This happened because I'm bad/weak/stupid'—blaming yourself), Accommodation—changing your beliefs to fit the trauma ('The world is entirely dangerous'—seeing everything as threatening)."
+          - "Both are attempts to make sense of trauma, but both can be problematic. Assimilation leads to self-blame and shame. Accommodation leads to seeing everything as dangerous and avoiding life."
+          - "Recovery involves finding balance: 'Bad things happened, AND I'm not to blame. The world can be dangerous, AND it can also be safe. I was powerless in that situation, AND I have power in other situations.'"
+          - "This balanced thinking honors your experience while allowing you to move forward."
+        exerciseAfter: 2
+      - section: "How beliefs affect your life"
+        paragraphs:
+          - "Your beliefs shape your thoughts, feelings, and behaviors. If you believe 'The world is dangerous,' you might: Think—'I need to be constantly vigilant,' Feel—anxious, hypervigilant, on edge, Behave—avoid situations, isolate, constantly scan for threats."
+          - "If you believe 'I'm damaged,' you might: Think—'I don't deserve good things,' Feel—shame, worthlessness, despair, Behave—isolate, self-sabotage, avoid opportunities."
+          - "Understanding this connection helps you see how changing beliefs can change your life. When you develop more balanced beliefs, your thoughts, feelings, and behaviors change too."
+        exerciseAfter: 3
+    exercises:
+      - "Stuck Point Identification: Identify stuck points in each of the five areas (safety, trust, power, esteem, intimacy). Write them down. Notice how they feel true, but also notice how they might be too extreme."
+      - "Belief Impact Exercise: Choose one stuck point. Explore how it affects your: Thoughts, Feelings, Behaviors. Notice the connection between belief and experience."
+      - "Assimilation/Accommodation Check: For each stuck point, ask: 'Is this assimilation (blaming myself) or accommodation (seeing everything as dangerous)?' Notice patterns."
+      - "Balanced Belief Development: For each stuck point, try to develop a more balanced belief. Example: 'The world can be dangerous AND safe' instead of 'The world is entirely dangerous.'"
+    homework:
+      - "Complete your Stuck Point Identification. Review your stuck points weekly, noticing how they affect your life."
+      - "Choose one stuck point to work with. Explore how it affects your thoughts, feelings, and behaviors. Practice developing a more balanced belief."
+      - "Practice balanced thinking daily. When you notice extreme beliefs, try to find a more balanced perspective that honors your experience while allowing movement forward."
+  - title: "Module 4 • Processing Trauma: Writing and Exposure"
+    overview:
+      - "Processing trauma involves gradually and safely confronting traumatic memories. This module introduces writing and exposure techniques that help you process what happened in a controlled, supportive way."
+      - "We explore the importance of timing—processing should only happen when you have adequate safety and stabilization skills. Rushing into processing can be retraumatizing."
+      - "The module introduces trauma narratives—writing about your trauma experience in detail. This helps integrate fragmented memories and process emotions. You'll learn to write your narrative gradually, at your own pace."
+      - "You'll learn about gradual exposure—systematically facing trauma reminders in a controlled way. This helps your brain learn that reminders are not the same as the trauma itself."
+      - "We explore how to manage intense emotions during processing. Processing trauma can be difficult. You'll learn techniques to stay within your window of tolerance while processing."
+      - "Finally, we emphasize self-care and support during processing. Processing trauma is hard work. Taking care of yourself and having support is essential."
+    takeaways:
+      - "Trauma processing should only happen when you have adequate safety and stabilization skills."
+      - "Writing trauma narratives helps integrate fragmented memories."
+      - "Gradual exposure helps your brain learn that reminders are not the trauma itself."
+      - "Self-care and support are essential during trauma processing."
+    narrative:
+      - section: "Processing trauma safely"
+        paragraphs:
+          - "Processing trauma is not about reliving it. It's about gradually and safely confronting traumatic memories so your brain can integrate them, making them part of your past rather than your present."
+          - "This is delicate work. Processing too quickly or without adequate support can be retraumatizing. That's why safety and stabilization come first. You need to feel safe enough to process safely."
+          - "Processing involves: Writing about your trauma in detail (trauma narrative), Gradually facing trauma reminders (exposure), Processing emotions that come up, Integrating the experience into your life story."
+          - "This is hard work. It can be painful. But it's also healing. When you process trauma, you're taking back control. You're saying: 'This happened, and I survived. It's part of my story, but it's not all of me.'"
+        exerciseAfter: 0
+      - section: "Writing your trauma narrative"
+        paragraphs:
+          - "A trauma narrative is a detailed written account of your trauma experience. Writing it helps: Integrate fragmented memories, Process emotions, Make the trauma part of your past rather than your present, Reduce the power of traumatic memories."
+          - "You'll write your narrative gradually: Start with the facts—what happened, when, where, who was involved, Add sensory details—what you saw, heard, felt, smelled, tasted, Include thoughts and feelings—what you thought and felt during the trauma, Write about the aftermath—what happened after, how you felt, Write about meaning—what this experience means to you now."
+          - "This is your story. Write it at your own pace. Take breaks when you need to. Use grounding techniques if you become overwhelmed. There's no rush."
+          - "After writing, you'll read your narrative repeatedly. This is exposure—helping your brain learn that thinking about the trauma is not the same as experiencing it. Over time, the narrative becomes less triggering, more integrated."
+        exerciseAfter: 1
+      - section: "Gradual exposure to reminders"
+        paragraphs:
+          - "Trauma reminders are things that trigger trauma responses—places, people, sounds, smells, situations. Avoidance of these reminders maintains PTSD. Gradual exposure helps you face them safely."
+          - "Create an exposure hierarchy—a list of trauma reminders ranked from least to most anxiety-provoking. Start with the easiest. Face it repeatedly until your anxiety decreases. Then move to the next."
+          - "During exposure: Stay present—use grounding techniques, Notice that you're safe now—the trauma is over, Tolerate anxiety—it will decrease with repeated exposure, Process emotions—feel what comes up, then let it pass."
+          - "This takes time. Be patient. Every exposure is progress. Every time you face a reminder and survive, you're teaching your brain: 'I'm safe now. I can handle this.'"
+        exerciseAfter: 2
+      - section: "Managing intense emotions"
+        paragraphs:
+          - "Processing trauma can trigger intense emotions—fear, anger, sadness, shame. These emotions are normal. The challenge is managing them without becoming overwhelmed."
+          - "Techniques include: Grounding—return to the present when emotions are intense, Emotional regulation—use skills from Module 2, Self-compassion—be kind to yourself, 'This is hard, and that's okay,' Taking breaks—pause processing when needed, Support—reach out to safe people."
+          - "You don't have to process everything at once. You can take breaks. You can go slowly. Healing is not a race."
+        exerciseAfter: 3
+    exercises:
+      - "Readiness Assessment: Assess your readiness for trauma processing. Do you have: Adequate safety and stabilization skills? Support system? Ability to manage intense emotions? If not, focus on Module 2 first."
+      - "Trauma Narrative Outline: Create an outline of your trauma narrative. Include: Facts, Sensory details, Thoughts and feelings, Aftermath, Meaning. Don't write the full narrative yet—just outline it."
+      - "Exposure Hierarchy: Create a list of trauma reminders, ranked from least to most anxiety-provoking. Start with the easiest items."
+      - "Emotion Management Plan: Create a plan for managing intense emotions during processing. Include: Grounding techniques, Emotional regulation skills, Self-compassion practices, Support people, When to take breaks."
+    homework:
+      - "Complete your Readiness Assessment. If you're not ready for processing, focus on safety and stabilization (Module 2) first."
+      - "Create your Trauma Narrative Outline. Take your time. There's no rush."
+      - "Begin writing your trauma narrative gradually. Start with facts. Add details slowly. Take breaks when needed. Use grounding techniques if you become overwhelmed."
+      - "Practice exposure with the easiest items on your hierarchy. Face them repeatedly until anxiety decreases. Move to the next item only when ready."
+  - title: "Module 5 • Cognitive Restructuring: Challenging Stuck Points"
+    overview:
+      - "Cognitive restructuring helps you challenge and change stuck points—beliefs that developed from trauma and now interfere with your life. This module teaches you to examine these beliefs, gather evidence, and develop more balanced perspectives."
+      - "We explore the Thought Record—a structured tool for examining stuck points. You'll learn to identify stuck points, examine evidence for and against them, and develop balanced alternatives."
+      - "The module helps you challenge common stuck points: self-blame ('It was my fault'), safety ('The world is entirely dangerous'), trust ('I can't trust anyone'), power ('I'm powerless'), and esteem ('I'm damaged')."
+      - "You'll learn to distinguish between facts and interpretations. Stuck points often feel like facts, but they're interpretations. Learning to see this distinction is key to change."
+      - "We explore the concept of 'stuck point logs'—tracking stuck points as they appear and systematically challenging them. This helps you develop new, more balanced beliefs."
+      - "Finally, we introduce behavioral experiments—testing new beliefs in real life. These experiments provide evidence that challenges old stuck points and supports new beliefs."
+    takeaways:
+      - "Stuck points are interpretations, not facts—they can be challenged and changed."
+      - "Thought records help you examine stuck points systematically."
+      - "Distinguishing between facts and interpretations is key to change."
+      - "Behavioral experiments provide real-world evidence for new beliefs."
+    narrative:
+      - section: "Challenging what feels true"
+        paragraphs:
+          - "Stuck points feel true. They feel like facts. 'The world is dangerous.' 'I'm damaged.' 'It was my fault.' These beliefs developed from real experience, so they carry the weight of truth."
+          - "But they're interpretations, not facts. They're one way of seeing things, not the only way. Cognitive restructuring helps you examine these beliefs, gather evidence, and develop more balanced perspectives."
+          - "This doesn't mean denying what happened or minimizing your experience. It means finding perspectives that are accurate AND allow you to move forward. 'Bad things happened, AND I'm not to blame.' 'The world can be dangerous, AND it can also be safe.'"
+          - "Challenging stuck points takes courage. It means questioning beliefs that feel true, that have protected you. But it's also liberating. When you challenge stuck points, you're taking back your power. You're saying: 'I get to decide what I believe.'"
+        exerciseAfter: 0
+      - section: "The thought record"
+        paragraphs:
+          - "A thought record is a structured tool for examining stuck points. It helps you: Identify the stuck point, Notice when it appears, Examine evidence for and against it, Develop a more balanced belief, Notice how changing the belief changes your feelings and behaviors."
+          - "For example, if your stuck point is 'It was my fault,' you might examine: Evidence for—'I was there,' 'I didn't stop it'; Evidence against—'I was a child,' 'I was overpowered,' 'The responsibility was the perpetrator's'; Balanced belief—'I was there, AND it wasn't my fault. The responsibility belongs to the person who harmed me.'"
+          - "This process takes time. Be patient. Be compassionate. Changing beliefs that developed from trauma is hard work."
+        exerciseAfter: 1
+      - section: "Common stuck points and challenges"
+        paragraphs:
+          - "Common stuck points include: Self-blame—'It was my fault.' Challenge: 'What would I tell a friend in this situation? What's the evidence?'; Safety—'The world is entirely dangerous.' Challenge: 'Are there safe places? Safe people? Can danger and safety coexist?'; Trust—'I can't trust anyone.' Challenge: 'Are there people I can trust? Can I trust selectively?'; Power—'I'm powerless.' Challenge: 'What power do I have now? What choices can I make?'; Esteem—'I'm damaged.' Challenge: 'Am I entirely damaged, or am I affected by trauma AND still whole?'"
+          - "For each stuck point, gather evidence. Challenge extreme thinking. Develop balanced perspectives. This takes practice, but it gets easier over time."
+        exerciseAfter: 2
+      - section: "Facts vs. interpretations"
+        paragraphs:
+          - "Learning to distinguish between facts and interpretations is crucial. Facts are observable, verifiable. Interpretations are meanings we assign to facts."
+          - "For example: Fact—'Someone hurt me.' Interpretation—'I'm damaged,' 'It was my fault,' 'I don't deserve love.'"
+          - "The fact is true. The interpretations might not be. You can acknowledge the fact while challenging interpretations that don't serve you."
+        exerciseAfter: 3
+    exercises:
+      - "Stuck Point Log: Keep a log of stuck points as they appear. For each, complete a thought record: Identify the stuck point, Notice when it appears, Examine evidence for and against, Develop a balanced belief, Notice how this affects your feelings and behaviors."
+      - "Common Stuck Point Challenge: Choose one common stuck point (self-blame, safety, trust, power, or esteem). Complete a detailed thought record. Challenge it systematically. Develop a balanced belief."
+      - "Facts vs. Interpretations Exercise: For a recent situation, identify: Facts—what actually happened, Interpretations—what meanings you assigned. Practice distinguishing between them."
+      - "Behavioral Experiment: Choose one stuck point. Design an experiment to test a new, balanced belief. For example, if your stuck point is 'I can't trust anyone,' experiment with trusting a safe person in a small way. Document results."
+    homework:
+      - "Maintain your Stuck Point Log for two weeks. Complete thought records for stuck points as they appear. Notice patterns."
+      - "Choose one major stuck point to work with. Complete a detailed thought record. Challenge it systematically. Develop and practice a balanced belief."
+      - "Practice distinguishing facts from interpretations daily. When you notice interpretations, ask: 'Is this a fact or an interpretation? What's the evidence?'"
+      - "Conduct at least one behavioral experiment per week. Test new beliefs in real life. Document results and notice what you learn."
+  - title: "Module 6 • Reclaiming Your Life: Behavioral Activation and Values"
+    overview:
+      - "Trauma can make you withdraw from life. This module helps you reclaim your life by re-engaging with activities, relationships, and values that matter to you."
+      - "We explore behavioral activation—gradually re-engaging with activities you've been avoiding. This helps break the cycle of avoidance that maintains PTSD."
+      - "The module introduces values clarification—identifying what matters to you, what gives your life meaning. Trauma can make you lose sight of your values. Reconnecting with them helps you rebuild meaning."
+      - "You'll learn to create an activity hierarchy—a list of activities ranked by how important they are to you and how much anxiety they cause. This helps you prioritize and gradually re-engage."
+      - "We explore the importance of relationships in recovery. Trauma can make you isolate. Reconnecting with safe people is essential for healing."
+      - "Finally, we introduce the concept of 'post-traumatic growth'—the possibility of growing from trauma, finding meaning, and living a rich, full life despite what happened."
+    takeaways:
+      - "Behavioral activation helps break the cycle of avoidance."
+      - "Reconnecting with values helps rebuild meaning."
+      - "Gradual re-engagement with activities and relationships supports recovery."
+      - "Post-traumatic growth is possible—you can grow from trauma."
+    narrative:
+      - section: "Reclaiming what trauma took"
+        paragraphs:
+          - "Trauma can take a lot from you—your sense of safety, your trust, your joy, your connection to life itself. This module is about reclaiming what trauma took, about taking back your life."
+          - "This doesn't mean pretending trauma didn't happen or 'getting over it.' It means honoring your experience while also choosing to live fully. It means saying: 'This happened, AND I'm still here. I'm still me. I can still live.'"
+          - "Reclaiming your life involves: Re-engaging with activities you've been avoiding, Reconnecting with values that matter to you, Rebuilding relationships with safe people, Finding meaning and purpose, Living fully despite what happened."
+          - "This takes courage. It means facing fears, taking risks, choosing life. But it's also liberating. Every activity you re-engage with, every value you reconnect with, every relationship you rebuild is a victory. It's you saying: 'Trauma doesn't get to define me. I get to define me.'"
+        exerciseAfter: 0
+      - section: "Behavioral activation"
+        paragraphs:
+          - "Behavioral activation involves gradually re-engaging with activities you've been avoiding due to trauma. This breaks the cycle of avoidance that maintains PTSD."
+          - "Start small. Choose activities that: Matter to you, Feel manageable, Don't trigger overwhelming anxiety. Examples might include: Going for a walk, Calling a friend, Engaging in a hobby, Attending a social event, Pursuing a goal."
+          - "Schedule these activities. Put them in your calendar. Commit to them. Even if you don't feel like it, do them anyway. Action comes before motivation."
+          - "Notice what happens. Do you feel better? Do you feel more connected? Do you feel more like yourself? These positive experiences reinforce re-engagement, making it easier over time."
+        exerciseAfter: 1
+      - section: "Values clarification"
+        paragraphs:
+          - "Values are what matter to you—the principles that guide how you want to live. Trauma can make you lose sight of your values. Reconnecting with them helps you rebuild meaning."
+          - "Common values include: Connection, Growth, Contribution, Authenticity, Adventure, Security, Creativity, Health, Family, Meaning, Service, Learning."
+          - "Identify your top values. Ask: 'What matters to me? What gives my life meaning? How do I want to live?'"
+          - "Then, align your actions with your values. Every day, ask: 'What can I do today that aligns with my values?' Even small actions count. Every value-aligned action is a step toward reclaiming your life."
+        exerciseAfter: 2
+      - section: "Activity hierarchy"
+        paragraphs:
+          - "An activity hierarchy helps you prioritize re-engagement. List activities you've been avoiding, then rank them by: How important they are to you (values alignment), How much anxiety they cause."
+          - "Start with activities that are: High in importance, Low in anxiety. As you build confidence, gradually move to activities that are: High in importance, Higher in anxiety."
+          - "This systematic approach helps you re-engage safely, building momentum over time."
+        exerciseAfter: 3
+      - section: "Rebuilding relationships"
+        paragraphs:
+          - "Trauma can make you isolate. You might feel disconnected, unable to trust, afraid of being hurt again. But connection is essential for healing."
+          - "Rebuilding relationships involves: Identifying safe people, Starting small—brief, low-pressure interactions, Gradually increasing connection, Setting boundaries that protect you, Being authentic about your experience (when safe), Accepting support."
+          - "This takes time. Be patient. Not everyone will be safe. That's okay. Focus on the people who are."
+        exerciseAfter: 4
+      - section: "Post-traumatic growth"
+        paragraphs:
+          - "Post-traumatic growth is the possibility of growing from trauma. It doesn't mean trauma was good or that you should be grateful for it. It means that despite trauma, you can grow, find meaning, and live a rich, full life."
+          - "Common areas of growth include: Appreciation for life, Relationships, Personal strength, New possibilities, Spiritual growth."
+          - "This doesn't happen automatically. It requires: Processing trauma, Challenging stuck points, Reconnecting with values, Re-engaging with life, Finding meaning."
+          - "You might not see growth yet, and that's okay. Healing takes time. But growth is possible. You can live fully despite what happened."
+        exerciseAfter: 5
+    exercises:
+      - "Values Identification: Identify your top 5-10 values. Write about why each matters to you. How have you lived these values in the past? How can you live them now?"
+      - "Activity Hierarchy: List activities you've been avoiding. Rank them by importance and anxiety. Start with high-importance, low-anxiety activities."
+      - "Behavioral Activation Plan: Choose 3-5 activities from your hierarchy. Schedule them for this week. Commit to doing them, even if you don't feel like it."
+      - "Relationship Reconnection: Identify 2-3 safe people you want to reconnect with. Make a plan to reach out. Start small—a text, a call, a brief meet-up."
+      - "Post-Traumatic Growth Reflection: Reflect on areas where you might be growing: Appreciation for life, Relationships, Personal strength, New possibilities, Spiritual growth. Write about this."
+    homework:
+      - "Complete your Values Identification. Review your values weekly. Ask: 'How am I living my values? What can I do to align more with them?'"
+      - "Create your Activity Hierarchy. Start re-engaging with high-importance, low-anxiety activities. Gradually work your way up."
+      - "Schedule and complete behavioral activation activities weekly. Notice how re-engagement affects your mood, connection, and sense of self."
+      - "Reach out to at least one safe person this week. Start rebuilding connections. Notice how it feels."
+      - "Reflect on post-traumatic growth monthly. Notice areas where you're growing, even if growth is small."
+  - title: "Module 7 • Integration and Moving Forward: Your Path Ahead"
+    overview:
+      - "The final module consolidates your learning and helps you create a plan for continued healing. Recovery from trauma is a journey, not a destination. This module prepares you for that journey."
+      - "We review your progress—acknowledging how far you've come, the skills you've learned, the growth you've experienced. Celebrating progress is important."
+      - "The module helps you create a maintenance plan—strategies for maintaining your progress and preventing relapse. This includes: Daily practices, Weekly practices, Warning signs, Action plans, Supports."
+      - "We explore how to handle setbacks. Setbacks are normal—they don't mean you've failed. Learning to navigate setbacks without derailing your progress is crucial."
+      - "You'll learn about continuing your healing journey—how to keep growing, processing, and reclaiming your life. Healing doesn't end when the program ends."
+      - "Finally, we celebrate your courage and set intentions for continued growth. You've done hard work. You've shown incredible courage. You've reclaimed your life. This is worth celebrating."
+    takeaways:
+      - "Recovery from trauma is a journey, not a destination."
+      - "A maintenance plan helps you stay on track and prevent relapse."
+      - "Setbacks are normal—they don't mean you've failed."
+      - "Continuing your healing journey supports long-term recovery."
+    narrative:
+      - section: "How far you've come"
+        paragraphs:
+          - "Take a moment to acknowledge how far you've come. You've faced trauma. You've processed it. You've challenged stuck points. You've reclaimed your life. This is incredible work."
+          - "You've learned powerful tools: Safety and stabilization, Grounding techniques, Emotional regulation, Trauma processing, Cognitive restructuring, Behavioral activation, Values alignment."
+          - "You've shown incredible courage. Facing trauma takes courage. Processing it takes courage. Challenging beliefs takes courage. Reclaiming your life takes courage. You've done all of this."
+          - "Healing from trauma is hard work. You've done it. You're doing it. You'll continue doing it. This is worth celebrating."
+        exerciseAfter: 0
+      - section: "Your maintenance plan"
+        paragraphs:
+          - "Recovery from trauma is a journey, not a destination. You'll have good days and difficult days. You'll have periods of progress and periods of challenge. This is normal."
+          - "A maintenance plan helps you stay on track. It includes: Daily practices—grounding, emotional regulation, self-compassion, Weekly practices—trauma processing, cognitive restructuring, behavioral activation, Warning signs—what indicates you're struggling, Action plan—what to do when warning signs appear, Supports—people, resources, techniques that help, Values—what matters to you, what you're working toward."
+          - "Think of your maintenance plan as a roadmap. When you feel lost, you can refer to it. When you encounter obstacles, you can adjust it. It's a living document that evolves with you."
+        exerciseAfter: 1
+      - section: "Navigating setbacks"
+        paragraphs:
+          - "Setbacks are normal. You might have a difficult week, a return of symptoms, or a return of old patterns. This doesn't mean you've failed. It means you're human, and recovery isn't linear."
+          - "When setbacks occur: Acknowledge them without judgment ('I'm having a difficult time right now'), Review your maintenance plan ('What tools can I use?'), Practice self-compassion ('This is hard, and that's okay'), Take small steps ('What's one thing I can do today?'), Reach out for support ('Who can I talk to?')."
+          - "Setbacks are opportunities to practice what you've learned. They're not failures—they're part of the journey. How you respond to setbacks matters more than the setbacks themselves."
+        exerciseAfter: 2
+      - section: "Continuing your journey"
+        paragraphs:
+          - "Healing doesn't end when the program ends. It's an ongoing process. You'll continue: Processing trauma as new aspects emerge, Challenging stuck points as they appear, Reclaiming your life through behavioral activation, Aligning with your values, Finding meaning and purpose."
+          - "You have the tools. You have the skills. You have the courage. You can continue this journey. You can keep healing. You can keep growing."
+          - "Remember: You are not broken. You are healing. You are whole. You are reclaiming your life. This is your journey. You get to decide how it continues."
+        exerciseAfter: 3
+      - section: "Celebrating your courage"
+        paragraphs:
+          - "You've done incredible work. You've faced trauma. You've processed it. You've challenged beliefs. You've reclaimed your life. This is worth celebrating."
+          - "Take time to acknowledge: Your courage, Your strength, Your growth, Your progress, Your resilience."
+          - "Healing from trauma is possible. You've proven that. You're proving that. You'll continue proving that. This is your story. You get to write the next chapter."
+        exerciseAfter: 4
+    exercises:
+      - "Progress Reflection: Write about your progress. What have you learned? What tools work best for you? What challenges have you overcome? What are you proud of?"
+      - "Maintenance Plan Creation: Create your personal maintenance plan. Include: Daily practices, Weekly practices, Warning signs, Action plan, Supports, Values. Make it specific and actionable."
+      - "Setback Response Plan: Create a plan for responding to setbacks. Include: How you'll recognize setbacks, What tools you'll use, Who you'll reach out to, How you'll practice self-compassion."
+      - "Continuing Journey Map: Map out how you'll continue your healing journey. What will you focus on? What goals do you have? What supports will you use?"
+      - "Celebration Ritual: Plan a celebration ritual to acknowledge your progress. This might include: Reflecting on your journey, Acknowledging your courage, Setting intentions for continued growth, Doing something meaningful to mark this milestone."
+    homework:
+      - "Complete your Progress Reflection. Review it regularly. Celebrate your growth."
+      - "Finalize your Maintenance Plan. Share it with a trusted person. Review it weekly and adjust as needed."
+      - "Create your Setback Response Plan. Practice it when setbacks occur. Notice how it helps."
+      - "Map your Continuing Journey. Set goals. Make plans. Keep moving forward."
+      - "Complete your Celebration Ritual. Acknowledge your courage. Celebrate your progress. Set intentions for continued growth."
+

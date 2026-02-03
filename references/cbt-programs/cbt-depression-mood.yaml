@@ -1,0 +1,114 @@
+id: cbt-depression-mood
+title: "Renew Your Energy: CBT Program for Depression"
+condition: "Depression"
+summary: "A seven-module CBT journey blending psychoeducation, cognitive skills, behavioral activation, mindfulness, and relapse planning to lift mood and restore engagement."
+duration: "7 modules • 5-7 weeks self-paced"
+focusAreas:
+  - "Mood monitoring"
+  - "Cognitive restructuring"
+  - "Behavioral activation"
+  - "Mindfulness practice"
+modules:
+  - title: "Module 1 • Understanding Your Depression"
+    overview:
+      - "Clarify what depression is, how it shows up across emotional, cognitive, physical, and behavioral domains, and why it deserves compassionate care."
+      - "Explore potential contributors—including biology, environment, and lived experiences—to build context for change."
+    takeaways:
+      - "Depression is a medical condition shaped by multiple factors; awareness replaces self-blame with informed care."
+      - "Recognizing early signs across body and mind helps you respond sooner."
+    exercises:
+      - "Symptom mapping: Categorize current or past symptoms into emotional, cognitive, physical, and behavioral columns."
+      - "Origins reflection: Jot any life events, stressors, or patterns you believe influence your mood."
+    homework:
+      - "Capture two moments this week when you noticed depressive symptoms and describe what was happening."
+      - "List questions about depression you want to revisit with a clinician, coach, or support group."
+      - "Note any strengths or supports you already rely on when your mood dips."
+  - title: "Module 2 • Principles of CBT"
+    overview:
+      - "Learn the cognitive model linking situations, thoughts, emotions, and behaviors."
+      - "Identify automatic thoughts and common cognitive distortions that keep mood low."
+    takeaways:
+      - "Interpretations—not events alone—shape emotional reactions."
+      - "Thoughts can be observed, questioned, and reshaped into balanced alternatives."
+    exercises:
+      - "Thought record: Capture a recent mood dip, the triggering situation, automatic thoughts, emotions, and behaviors."
+      - "Distortion detective: Highlight which distortions (e.g., all-or-nothing thinking, catastrophizing) show up most for you."
+    homework:
+      - "Track automatic thoughts daily, noting patterns or repeated themes."
+      - "For one challenging thought, gather evidence for and against it, then craft a more balanced statement."
+      - "Reflect on times when shifting perspective changed how you felt or acted."
+  - title: "Module 3 • Behavioral Activation Foundations"
+    overview:
+      - "Understand how avoidance and withdrawal reinforce depression and how small actions can shift momentum."
+      - "Design meaningful, manageable activities aligned with your values."
+    takeaways:
+      - "Action precedes motivation—starting small interrupts the depression cycle."
+      - "Tracking mood alongside activity reveals helpful patterns."
+    exercises:
+      - "Activity brainstorm: List 10 enjoyable, meaningful, or mastery-building activities (including ones you used to love)."
+      - "Value alignment: Circle the activities that connect with core values like growth, connection, or creativity."
+    homework:
+      - "Complete a daily activity and mood log, rating energy and mood before and after each entry."
+      - "Choose one or two doable activities for the coming week and schedule them with specific days and times."
+      - "Note how your mood shifts before, during, and after completing each activity."
+  - title: "Module 4 • Move Your Body, Support Your Mood"
+    overview:
+      - "Explore the mind-body connection, how movement influences brain chemistry, and why consistency matters more than intensity."
+      - "Experiment with brief physical activities that feel accessible right now."
+    takeaways:
+      - "Even gentle movement can boost endorphins, energy, and mood stability."
+      - "Planning activity into your day increases follow-through and confidence."
+    exercises:
+      - "Movement menu: Identify 5 forms of physical activity ranging from low to moderate effort that feel realistic."
+      - "Body scan check-in: After a short walk or stretch, write down physical sensations and emotional shifts you notice."
+    homework:
+      - "Schedule at least three short physical activity sessions this week (e.g., 10-minute walk, light stretching)."
+      - "Track how you feel physically and emotionally before and after each session."
+      - "Reflect on which activities felt most doable and why."
+  - title: "Module 5 • Mindfulness and Present-Moment Awareness"
+    overview:
+      - "Introduce mindfulness as the practice of paying attention on purpose, in the present moment, without judgment."
+      - "Practice observing thoughts, emotions, and sensations with curiosity rather than criticism."
+    takeaways:
+      - "Mindfulness creates space between experience and reaction, supporting emotion regulation."
+      - "Short, consistent practices build awareness that supports other CBT skills."
+    exercises:
+      - "Guided breath practice: Spend 5 minutes following your breath and noting when the mind wanders."
+      - "Mindful eating: Choose one snack or meal to experience with full sensory attention."
+    homework:
+      - "Commit to a daily 5–10 minute mindfulness practice using a guided audio or timer."
+      - "Record observations after each practice: mood shifts, sensations, and any judgments you noticed."
+      - "Experiment with placing a mindful pause before one routine activity (e.g., opening email, starting chores)."
+  - title: "Module 6 • Mindful Behavioral Activation"
+    overview:
+      - "Blend mindfulness with activity planning to reduce avoidance and stay present during challenging tasks."
+      - "Bring sensory awareness into movement and daily routines to deepen engagement."
+    takeaways:
+      - "Mindfulness helps you notice urges to avoid without automatically obeying them."
+      - "Staying present with bodily sensations can make activity more meaningful and less overwhelming."
+    exercises:
+      - "Mindful routine practice: Choose a daily activity (showering, dishwashing, walking) and narrate the sensations step by step."
+      - "Approach plan: Select one task you've avoided and break it into mindful mini-steps, noting thoughts and feelings along the way."
+    homework:
+      - "Complete one previously avoided activity using a mindful approach and journal what you observed."
+      - "Combine mindfulness with one planned behavioral activation activity and note changes in enjoyment or resistance."
+      - "Capture any shifts in mood or perspective after these mindful experiments."
+  - title: "Module 7 • Relapse Prevention and Future Planning"
+    overview:
+      - "Identify early warning signs of returning depression and create a compassionate response plan."
+      - "Design routines, supports, and check-ins that sustain progress over time."
+    takeaways:
+      - "Relapse signals are invitations to re-engage skills, not evidence of failure."
+      - "Intentional routines and supportive relationships protect your mood."
+    exercises:
+      - "Relapse map: List personal warning signs across thoughts, emotions, behaviors, and body cues."
+      - "Support circle: Identify people and resources you can reach out to when mood dips and note how each can help."
+    homework:
+      - "Draft a personalized mood maintenance plan including daily/weekly activities, mindfulness practices, and support contacts."
+      - "Schedule future self-checks (e.g., monthly calendar reminders) to review mood, routines, and needs."
+      - "Write a compassionate letter to your future self about what to do when symptoms re-emerge."
+resources:
+  - title: "Mood and activity tracking worksheet"
+    url: "https://therapistaid.com/worksheets/behavioral-activation/homework"
+  - title: "Free guided mindfulness practices"
+    url: "https://www.uclahealth.org/programs/marc/free-guided-meditations"

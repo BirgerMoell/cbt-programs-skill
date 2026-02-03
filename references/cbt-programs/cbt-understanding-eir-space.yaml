@@ -1,0 +1,322 @@
+id: cbt-understanding-eir-space
+title: "Your Health, Your Life: Getting Started with EIR Space"
+condition: "Platform Introduction"
+summary: "Your health isn't just about avoiding illness—it's the foundation of everything you do, feel, and experience. When you understand and improve your health, you improve your entire quality of life. This guide shows you how EIR Space puts the power of health understanding in your hands, with tools designed to help you live better, feel better, and take control of your wellbeing."
+duration: "7 modules • Self-paced"
+focusAreas:
+  - "Why your health matters more than you think"
+  - "Taking control of your health journey"
+  - "Understanding your body and mind"
+  - "Making informed health decisions"
+  - "Building lasting health habits"
+  - "Your data, your privacy, your control"
+image: "images/eir-space-hero.jpg"
+modules:
+  - title: "Module 1 • Why Your Health Is Your Greatest Asset"
+    image: "images/module1-welcome.jpg"
+    overview:
+      - "Your health is literally your life. It determines your energy, your mood, your ability to work, play, love, and pursue what matters to you. Yet most of us only think about health when something goes wrong."
+      - "What if you could understand your health deeply? What if you could see patterns, catch problems early, and make choices that genuinely improve how you feel every day?"
+      - "EIR Space exists to give you that power. Not to replace your doctor, but to help you become an informed, empowered participant in your own health journey."
+    takeaways:
+      - "Your health directly impacts every area of your life—energy, relationships, work, happiness."
+      - "Understanding your health gives you the power to improve it."
+      - "Small, informed changes can dramatically improve your quality of life."
+      - "You deserve to understand what's happening in your body and mind."
+    narrative:
+      - section: "Your health is your quality of life"
+        paragraphs:
+          - "Think about the last time you felt truly energized. When you slept well, had no aches or worries, and felt ready to take on the day. That feeling—that vitality—is what good health gives you."
+          - "Now think about a time when you felt unwell. How it affected everything: your patience with loved ones, your focus at work, your ability to enjoy simple pleasures. Health isn't separate from life—it IS life."
+          - "Most people don't realize how much better they could feel until they start paying attention. Small improvements in sleep, nutrition, stress management, and self-awareness compound into dramatic improvements in daily life."
+        exerciseAfter: 0
+      - section: "The cost of not understanding your health"
+        paragraphs:
+          - "When you don't understand your health, you're flying blind. You might ignore warning signs. You might make choices that hurt rather than help. You might feel confused and anxious when something goes wrong."
+          - "Many people feel powerless about their health—like it's something that happens TO them rather than something they can influence. This helplessness is often worse than the health issues themselves."
+          - "But here's the truth: you have more control than you think. Understanding your health—your patterns, your records, your body's signals—transforms you from a passive patient into an active participant."
+        exerciseAfter: 1
+      - section: "What EIR Space gives you"
+        paragraphs:
+          - "EIR Space is your personal health companion. It brings together everything you need to understand and improve your health: Your complete health history in one place, Tools to track how you feel day-to-day, AI that explains medical terms and identifies patterns, Structured programs for specific health challenges, and Complete privacy—your data never leaves your device."
+          - "This isn't about becoming obsessed with health metrics. It's about having the information and tools you need, when you need them, to make better choices and feel more in control."
+          - "Let's explore how each part of EIR Space helps you live a healthier, more informed life."
+        exerciseAfter: 2
+      - section: "A quick tour of what's available"
+        paragraphs:
+          - "EIR Space is organized into clear sections, accessible from the sidebar on the left: Health Journey (your clinical records and personal journal), Health Assessments (understand where you stand), Improve Your Health (personal growth tools and structured programs), EIR Chat (your AI health assistant) and Get Care (find care and prepare for appointments)."
+          - "Each section is designed to work together. Your records inform your journal. Your journal informs the AI. The AI helps you prepare for appointments. It's all connected—and it's all private."
+          - "Don't worry about learning everything at once. Start with what interests you most, and explore as you go. This program will guide you through each area."
+    exercises:
+      - "Health reflection: Write down three ways your health has affected your quality of life in the past month—both positive and negative."
+      - "Health goals: What's one aspect of your health you'd like to understand better? What's one thing you'd like to improve?"
+      - "Sidebar exploration: Open the sidebar and click through each main section. Don't worry about details—just notice what's available."
+      - "Explore different tools to improve your health, like Health Actions, Shadow Work, Health Programs, Habit Tracker and the Feedback Studio. There are 20 different tools to explore, Start with what interests you most, and explore as you go. Focus on curiosity and be open to improvement and understanding yourself. This program will guide you through each area."
+    homework:
+      - "Life audit: Think about your typical day. Where does your health help you? Where does it hold you back? Write down your observations."
+      - "Health vision: Imagine feeling 20% better than you do now. What would be different? What would you do that you can't do now?"
+      - "Commitment: Write down one reason why understanding your health matters to YOU. This is your 'why' for using EIR Space."
+
+  - title: "Module 2 • Health Journey: See Your Complete Health Story"
+    image: "images/module2-records.jpg"
+    overview:
+      - "Imagine having your entire health history at your fingertips—every doctor visit, every test result, every diagnosis and treatment. No more forgotten details or lost records. No more feeling unprepared at appointments."
+      - "The Health Journey section brings together your clinical records from Swedish healthcare (1177) and your personal health journal. Together, they create a complete picture of your health over time."
+      - "When you can see your health story, you can understand it. And when you understand it, you can improve it."
+    takeaways:
+      - "Having all your health records in one place eliminates confusion and forgotten information."
+      - "Seeing your health history over time reveals patterns you might miss otherwise."
+      - "Your personal journal captures what records can't: how you actually feel day-to-day."
+      - "Together, records and journal give you the full picture of your health."
+    narrative:
+      - section: "Why your health records matter"
+        paragraphs:
+          - "Your clinical records contain crucial information: diagnoses, medications, test results, doctor's notes. But scattered across different providers and visits, this information is hard to use."
+          - "When you bring your records into EIR Space (from 1177 using BankID, or by uploading an EIR file), you can finally see the big picture. All your records, searchable and organized by date, provider, or category."
+          - "This isn't just convenient—it's empowering. When you understand your medical history, you can ask better questions, catch inconsistencies, and participate actively in your care decisions."
+        exerciseAfter: 0
+      - section: "Your personal health journal"
+        paragraphs:
+          - "Clinical records capture what doctors observe. But they miss something crucial: how you actually feel. Your energy levels, your mood, your symptoms between appointments, your daily experience of living in your body."
+          - "The health journal is your space to capture all of this. Write freely about how you're feeling. Rate your wellbeing. Track symptoms. Note what helped and what didn't. Use voice dictation when typing feels like too much."
+          - "Over time, your journal becomes invaluable. You'll see patterns: 'I always feel worse after poor sleep.' 'My mood improved when I started exercising.' 'That medication helped more than I realized.' These insights can transform your health."
+        exerciseAfter: 1
+      - section: "Tracking specific health areas"
+        paragraphs:
+          - "Sometimes you need to track specific things: sleep, hydration, activity, digestive health. The journal includes specialized tracking for each of these, with interfaces designed to make logging quick and easy."
+          - "Why track these things? Because small changes in sleep, hydration, and activity have outsized effects on how you feel. Tracking helps you see the connection between what you do and how you feel."
+          - "You don't need to track everything. Choose one or two areas that matter to you. Even simple tracking reveals patterns that can dramatically improve your daily life."
+        exerciseAfter: 2
+      - section: "Putting it all together"
+        paragraphs:
+          - "Your clinical records plus your personal journal create something powerful: a complete health story. The objective (what doctors measured) combined with the subjective (how you experienced it)."
+          - "This complete picture is what you bring to doctor appointments. It's what the AI can analyze for patterns. It's what you review when making health decisions. It's your health, documented and understood."
+          - "To get started: Load your clinical records (if you have them) and try creating your first journal entry. Just write about how you're feeling today. That's all it takes to begin."
+    exercises:
+      - "Record loading: If you have Swedish healthcare records, try fetching them from 1177 or loading an EIR file. Explore what's there."
+      - "First journal entry: Write a short journal entry about how you're feeling right now. Rate your wellbeing. Notice how simple it is."
+      - "Pattern hunting: Look through your records or journal. Can you spot any patterns? Any surprises?"
+    homework:
+      - "Record exploration: Spend 15 minutes exploring your health records. Filter by category or provider. What do you learn?"
+      - "Journal week: Commit to journaling daily for one week—even just a sentence or two. At the end, look back. What patterns emerge?"
+      - "Specific tracking: Choose one area to track (sleep, hydration, or activity) for a week. Notice how tracking affects your awareness."
+      - "Doctor prep: Before your next appointment, review your records and recent journal entries. What do you want to discuss?"
+
+  - title: "Module 3 • Health Assessments: Know Where You Stand"
+    image: "images/module3-assessments.jpg"
+    overview:
+      - "How do you know if something is a problem worth addressing? How do you track whether you're improving? Health Assessments give you clear, structured ways to understand your current health status."
+      - "These aren't random quizzes—they're validated instruments used by healthcare professionals. By taking assessments and tracking results over time, you get objective measures of your progress."
+      - "Assessment results help you focus your efforts where they matter most and give you concrete evidence to share with your care team."
+    takeaways:
+      - "Assessments provide objective measures of your health status in specific areas."
+      - "Tracking assessment results over time shows whether you're improving."
+      - "Assessment results help you prioritize what to work on."
+      - "You can share results with your healthcare providers for better care."
+    narrative:
+      - section: "Beyond guessing: knowing where you stand"
+        paragraphs:
+          - "We often have a vague sense of how we're doing—'I've been stressed lately' or 'My mood seems off.' But vague feelings are hard to act on. How stressed? Compared to when? Getting better or worse?"
+          - "Health Assessments turn vague feelings into concrete information. They ask structured questions and give you scores you can track over time. Now you know: 'My anxiety score dropped from 15 to 9 over three months.'"
+          - "This isn't about labeling yourself or obsessing over numbers. It's about having clear information to guide your efforts and measure your progress."
+        exerciseAfter: 0
+      - section: "What you can assess"
+        paragraphs:
+          - "EIR Space includes assessments for many health dimensions: mental health (anxiety, depression, stress), physical wellbeing, sleep quality, social connection, specific conditions, and more."
+          - "Each assessment is based on validated instruments—the same ones used in clinical settings. Your results are meaningful and comparable over time."
+          - "Choose assessments that matter to you. If you're concerned about stress, take a stress assessment. If sleep is your priority, assess sleep quality. Let your concerns guide your choices."
+        exerciseAfter: 1
+      - section: "Using your results"
+        paragraphs:
+          - "Assessment results tell you two things: where you stand now and whether you're improving. Both are valuable."
+          - "If an assessment reveals a concern, you know where to focus. Maybe you need a Health Program for anxiety. Maybe you should discuss something with your doctor. The assessment points the way."
+          - "If results show improvement, you have evidence that your efforts are working. This is motivating—and useful when talking to healthcare providers about your progress."
+        exerciseAfter: 2
+      - section: "Making assessments work for you"
+        paragraphs:
+          - "Here's a simple practice: Take a few baseline assessments when you start using EIR Space. Then retake them monthly or quarterly. This gives you a clear picture of your health trajectory."
+          - "Before doctor appointments, consider taking relevant assessments. Showing your doctor concrete trends is much more useful than saying 'I feel a bit better.'"
+          - "Remember: assessments are tools, not judgments. A high anxiety score isn't a failure—it's information that helps you take action."
+    exercises:
+      - "First assessment: Navigate to Health Assessments and take one that interests you. Read your results. What did you learn?"
+      - "Baseline creation: Take 2-3 assessments in areas that matter to you. Save these as your baselines."
+      - "Results reflection: Look at your assessment results. Do they match your intuition? Any surprises?"
+    homework:
+      - "Comprehensive baseline: Take assessments in each major category (mental health, physical wellbeing, etc.) to establish baselines."
+      - "Assessment schedule: Set a reminder to retake assessments in one month. Compare results to your baselines."
+      - "Doctor sharing: If you have an upcoming appointment, bring relevant assessment results to discuss with your provider."
+      - "Focus selection: Based on your assessments, identify one area to prioritize over the next month."
+
+  - title: "Module 4 • Improve Your Health: Tools & Programs for Real Change"
+    image: "images/module4-growth.jpg"
+    overview:
+      - "Understanding your health is the first step. The next step is improving it. The 'Improve Your Health' section gives you practical tools and structured programs to create real, lasting change."
+      - "Whether you want to sleep better, manage stress, build healthier habits, or work through specific challenges, you'll find evidence-based resources here."
+      - "These aren't generic tips—they're structured approaches based on what actually works, designed to meet you where you are and help you get where you want to go."
+    takeaways:
+      - "Real health improvement comes from consistent, focused effort—not random tips."
+      - "Health Programs provide structured, step-by-step guidance for specific challenges."
+      - "Personal growth tools help with sleep, nutrition, emotions, relationships, and daily wellness."
+      - "You can work at your own pace—all progress is saved automatically."
+    narrative:
+      - section: "Why structure matters for health change"
+        paragraphs:
+          - "Most health advice fails because it's scattered and generic. 'Exercise more.' 'Stress less.' 'Sleep better.' These are outcomes, not strategies. Without a structured approach, change rarely sticks."
+          - "EIR Space provides structure. Health Programs guide you through multi-week courses on specific challenges—anxiety, ADHD, chronic illness, productivity, relationships. Each module builds on the last, with exercises that create real change."
+          - "Personal growth tools offer structured support for ongoing areas: sleep optimization, nutrition awareness, emotional understanding, habit building. These aren't one-time reads—they're practices you build over time."
+        exerciseAfter: 0
+      - section: "Health Programs: focused transformation"
+        paragraphs:
+          - "Health Programs are comprehensive courses for specific challenges. Each program includes educational content (understand your challenge), practical exercises (apply what you learn), reflective homework (integrate insights), and progress tracking (see your growth)."
+          - "Programs cover mental health (anxiety, depression, ADHD, social confidence), professional development (productivity, leadership, communication), relationships (attachment styles, intimacy), and chronic health conditions (diabetes, MS)."
+          - "You commit to one program at a time—this ensures focused progress rather than scattered effort. Work through modules at your own pace. When you complete a program, start another. Your progress is always saved."
+        exerciseAfter: 1
+      - section: "Personal growth tools: ongoing support"
+        paragraphs:
+          - "Beyond structured programs, you have tools for ongoing health areas: Sleep guides help you understand and improve your sleep. Nutrition resources help you eat for energy and health. Emotional tools help you understand and regulate your feelings. Relationship insights help you connect better with others. Habit tracking helps you build consistent practices."
+          - "These tools combine education (understand why this matters) with practical application (what to actually do). Use them whenever you need support in a specific area."
+          - "The Feedback Studio deserves special mention: it helps you gather structured feedback from people who know you, revealing blind spots and growth opportunities you might miss on your own."
+        exerciseAfter: 2
+      - section: "Building a practice of improvement"
+        paragraphs:
+          - "Health improvement isn't a one-time event—it's an ongoing practice. EIR Space is designed to support this. Start a Health Program. Use personal growth tools as needed. Track your habits. Reassess periodically."
+          - "The key is consistency, not intensity. Fifteen minutes daily beats three hours once a week. Small, regular efforts compound into significant change."
+          - "To get started: Browse the Health Programs and personal growth tools. What speaks to you? What would make the biggest difference in your life right now? Start there."
+    exercises:
+      - "Program browsing: Explore the Health Programs section. Read descriptions. Which programs interest you?"
+      - "Tool exploration: Browse the personal growth tools. Try one that catches your attention."
+      - "Priority identification: Based on your health goals, which program or tool would help most?"
+    homework:
+      - "Program commitment: Choose one Health Program to start. Read the first module. Complete the first exercise."
+      - "Tool deep-dive: Choose one personal growth tool (sleep, nutrition, emotions, etc.) and explore it thoroughly."
+      - "Habit selection: Identify one small health habit you want to build. Use the Habit Tracker to start tracking it."
+      - "Weekly review: At the end of each week, review what you learned and practiced. What's working? What needs adjustment?"
+
+  - title: "Module 5 • EIR Chat: Your AI Health Assistant"
+    image: "images/module5-ai.jpg"
+    overview:
+      - "Medical information is confusing. Test results, diagnoses, treatment options—it can feel overwhelming. EIR Chat is your personal AI assistant, available 24/7 to explain, analyze, and help you understand."
+      - "This isn't generic AI—it's a health-focused assistant that can see your records and journal (in the chat context), giving you personalized explanations and insights based on YOUR health data."
+      - "Think of it as having a knowledgeable health advisor in your pocket, ready to answer questions, explain medical terms, and help you prepare for healthcare conversations."
+    takeaways:
+      - "EIR Chat explains medical terminology in plain language you can understand."
+      - "The AI can analyze your health data to identify patterns and trends."
+      - "You can prepare for doctor appointments by discussing what to ask."
+      - "The AI is a tool to enhance understanding, not replace medical care."
+    narrative:
+      - section: "Why AI changes everything"
+        paragraphs:
+          - "Before AI, understanding your health required either medical training or expensive consultations. Now you can ask 'What does this lab result mean?' and get a clear, personalized explanation in seconds."
+          - "EIR Chat doesn't just answer generic questions—it can see your actual health records and journal entries (when you're in the chat). This means explanations are tailored to YOUR situation, not generic information."
+          - "This doesn't replace your doctor. It helps you arrive at appointments informed and prepared, with better questions and clearer understanding."
+        exerciseAfter: 0
+      - section: "What you can ask"
+        paragraphs:
+          - "Ask about medical terms: 'What does [term] mean?' 'Explain this diagnosis in simple terms.' 'What is this test used for?' The AI excels at translating medical jargon."
+          - "Ask about your data: 'What patterns do you see in my records?' 'How has my [condition] changed over time?' 'What do my recent lab results suggest?' The AI can analyze and summarize."
+          - "Ask for preparation help: 'What should I ask my doctor about [condition]?' 'How should I describe these symptoms?' 'What questions are important for my upcoming appointment?'"
+        exerciseAfter: 1
+      - section: "Getting the most from AI chat"
+        paragraphs:
+          - "Be specific. 'What does my recent hemoglobin result mean?' works better than 'Tell me about blood tests.' The more specific your question, the more useful the answer."
+          - "Have conversations. Ask follow-up questions. 'Can you explain that more simply?' 'What about in my specific situation?' 'What else should I know?' The AI remembers context within a conversation."
+          - "Use it before appointments. Review your recent records with the AI. Generate a list of questions to ask. Understand what you want to discuss. You'll get much more from your limited appointment time."
+        exerciseAfter: 2
+      - section: "AI and privacy"
+        paragraphs:
+          - "The AI only sees data in the current chat context. Your conversations aren't stored permanently (unless you save them). Your data isn't used to train AI models. Privacy is protected."
+          - "You control what the AI can see. If you don't want to share something, don't include it in the chat. The AI helps only with what you share."
+          - "Remember: AI provides information and insights, not medical advice. For medical decisions, always consult your healthcare providers. The AI helps you understand—your doctor helps you decide."
+    exercises:
+      - "First AI question: Open EIR Chat and ask one question about your health. It could be about a term, a pattern, or a general question."
+      - "Record exploration: Ask the AI to summarize your health records or identify patterns. What does it find?"
+      - "Appointment prep: If you have an upcoming appointment, ask the AI to help you prepare questions."
+    homework:
+      - "Term learning: Identify 5 medical terms from your records that you don't fully understand. Ask the AI to explain each one."
+      - "Pattern analysis: Have a conversation with the AI about patterns in your health data. What insights emerge?"
+      - "Question generation: Use the AI to generate a list of questions for your next doctor appointment. Bring this list with you."
+      - "Regular use: Make a habit of asking the AI when you encounter something you don't understand. Build your health knowledge over time."
+
+  - title: "Module 6 • Get Care: From Insights to Action"
+    image: "images/module6-data.jpg"
+    overview:
+      - "Understanding your health is powerful. But understanding must lead to action. The Get Care section helps you find care and prepare for appointments."
+      - "This closes the loop: see your patterns, identify what needs attention, find appropriate care, and arrive prepared to make the most of your appointments."
+      - "This is where health understanding becomes health improvement."
+    takeaways:
+      - "Get Care helps you find appropriate healthcare resources."
+      - "Arriving at appointments prepared leads to better care."
+    narrative:
+      - section: "Finding and getting care"
+        paragraphs:
+          - "Sometimes you need professional care. The Get Care section helps you find it: Health Map shows you healthcare resources and providers. Request Care helps you prepare for and request appointments."
+          - "Knowing when to seek care is important. Your assessment results, health data patterns, and AI chat conversations can all help you recognize when professional input is needed."
+          - "When you do seek care, EIR Space helps you arrive prepared. Your records are organized. Your patterns are visible. Your questions are ready. You can make the most of limited appointment time."
+        exerciseAfter: 2
+      - section: "Closing the loop"
+        paragraphs:
+          - "Here's the complete cycle: Track your health (journal, assessments). See your patterns (Health Data). Identify concerns (AI chat, assessments). Seek care when needed (Get Care). Arrive prepared (records, questions). Follow up (journal, tracking)."
+          - "This cycle—awareness, understanding, action, follow-up—is how real health improvement happens. EIR Space supports every step."
+          - "You don't have to do everything perfectly. Just engaging with this cycle—even partially—puts you ahead of most people in understanding and managing your health."
+    exercises:
+      - "Get Care exploration: Browse the Get Care section. What resources are available?"
+      - "Appointment preparation: For your next healthcare appointment, prepare using EIR Space: review records, identify questions, note patterns."
+    homework:
+      - "Care planning: Think about your healthcare needs. What appointments do you need? What concerns should you address?"
+      - "Preparation practice: Before your next appointment, do a full preparation: records review, pattern identification, question list, assessment results."
+      - "Follow-up habit: After appointments, journal about what you learned and what to track going forward."
+
+  - title: "Module 7 • Your Health Journey: Privacy, Practice, and Progress"
+    image: "images/module7-journey.jpg"
+    overview:
+      - "You've learned what EIR Space can do for you. Now let's talk about how to make it work long-term: the privacy foundation that makes this possible, the practices that lead to lasting change, and your ongoing health journey."
+      - "Your health isn't a destination—it's a lifelong journey. EIR Space is designed to grow with you, supporting you through changing needs and challenges."
+      - "This final module helps you build sustainable health practices and understand the privacy principles that protect you."
+    takeaways:
+      - "Your data is truly private—stored on your device, not on servers."
+      - "Sustainable health practices are more important than perfect tracking."
+      - "Small, consistent efforts compound into significant health improvements."
+      - "EIR Space is designed to grow and adapt with your changing needs."
+    narrative:
+      - section: "Privacy: your data, your control"
+        paragraphs:
+          - "EIR Space is built on a radical privacy principle: your health data stays on YOUR device. We don't store it on servers. We don't mine it for advertising. We don't share it with anyone."
+          - "This means your health information is truly private. It can't be hacked from a server (it's not on a server). It can't be sold or analyzed without your knowledge. You control it completely."
+          - "The only data that leaves your device is what you explicitly choose to share: exporting data, using AI chat (temporary), or syncing with Google Calendar (optional). Everything else stays local."
+        exerciseAfter: 0
+      - section: "Building sustainable health practices"
+        paragraphs:
+          - "The features only help if you use them. The key is building sustainable practices—small, regular habits that compound over time. Not perfection, but consistency."
+          - "Consider these practices: Daily: A brief journal entry about how you're feeling. Weekly: Review your Health Data dashboard, work through Health Program content. Monthly: Retake key assessments, review your progress, adjust your focus."
+          - "Start small. If daily journaling feels like too much, try weekly. If a full Health Program feels overwhelming, start with one personal growth tool. Build momentum gradually."
+        exerciseAfter: 1
+      - section: "Your ongoing journey"
+        paragraphs:
+          - "Your health needs will change over time. Some seasons you'll focus on mental health. Others on physical fitness. Sometimes you'll need intensive work; sometimes maintenance is enough."
+          - "EIR Space is designed to flex with you. Use the features that serve your current needs. Skip what doesn't help right now. Come back to things when they become relevant."
+          - "Progress isn't linear. Some months you'll make great strides. Others you'll struggle. That's normal. The goal is ongoing engagement with your health, not perfection."
+        exerciseAfter: 2
+      - section: "Getting help when you need it"
+        paragraphs:
+          - "If you need help using EIR Space, resources are available: The Eir Docs section contains tutorials and documentation for every feature. The search function helps you find anything quickly. EIR Chat can answer questions about the platform itself."
+          - "If you need health help beyond what EIR Space provides, seek professional care. The Get Care section can help you find resources. EIR Space supports your health—it doesn't replace healthcare."
+          - "You've taken an important step by learning about EIR Space and committing to understanding your health. Now the journey continues. Use what you've learned. Build your practices. Improve your health. Improve your life."
+    exercises:
+      - "Privacy review: Read the Privacy page. Understand how your data is protected."
+      - "Practice planning: Write down 2-3 health practices you want to build with EIR Space."
+      - "First week commitment: Commit to specific actions for your first week of regular use."
+    homework:
+      - "Practice launch: Start your planned health practices this week. Even imperfectly—just start."
+      - "One-month check-in: Schedule a reminder to review your progress in one month. What's working? What needs adjustment?"
+      - "Health vision revisited: Look back at the health vision you wrote in Module 1. How does EIR Space help you get there?"
+      - "Journey commitment: Write a brief commitment to yourself about how you'll use EIR Space to improve your health and quality of life."
+
+resources:
+  - title: "EIR Space Privacy"
+    url: "/privacy"
+  - title: "Tutorials & Documentation"
+    url: "/eir-docs"
+  - title: "Health Assessments"
+    url: "/health-assessment"
+  - title: "Health Programs"
+    url: "/personal-growth?tab=cbt-programs"

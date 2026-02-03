@@ -1,0 +1,35 @@
+id: monitor-your-health
+title: Keeping Track of Your Health
+summary: Learn simple routines to observe body signals, record changes, and spot patterns that matter.
+tags:
+  - Self-care
+  - Prevention
+  - Lifestyle
+keywords:
+  - monitoring
+  - symptoms
+  - tracking
+sections:
+  - title: Build a daily check-in
+    body:
+      - Set a recurring reminder to note sleep, mood, energy, and pain levels using a scale from 1 to 5.
+      - Scan for new or changing symptoms such as swelling, shortness of breath, rashes, or unusual bleeding.
+    highlights:
+      - Compare notes with your medication schedule so you can see how treatments affect how you feel.
+  - title: Track key measures safely
+    body:
+      - Keep tools like a thermometer, blood pressure cuff, or glucose meter calibrated per manufacturer instructions.
+      - Record measurements in one place—an app, notebook, or spreadsheet—and mark the time and context (e.g., fasting, after exercise).
+    tips:
+      - Take devices to your next appointment so a nurse can confirm your technique and accuracy.
+  - title: Notice patterns and triggers
+    body:
+      - Review your log weekly to spot trends, such as fatigue after poor sleep or headaches after specific foods.
+      - Flag any readings outside your usual range with a star so they are easy to point out to your clinician.
+    highlights:
+      - Share summaries with trusted family members if they help you manage care or recognize warning signs.
+resources:
+  - title: CDC Symptom Diary Template
+    url: https://www.cdc.gov/arthritis/basics/management/activity-tracker.html
+  - title: NHS Guide to Home Blood Pressure Monitoring
+    url: https://www.nhs.uk/conditions/high-blood-pressure-hypertension/check-your-blood-pressure/

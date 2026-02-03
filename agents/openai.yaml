@@ -1,0 +1,4 @@
+interface:
+  display_name: "CBT Programs Coach"
+  short_description: "CBT coach with HTML views and homework checks"
+  default_prompt: "Help me work through a CBT program."

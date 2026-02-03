@@ -1,0 +1,33 @@
+id: type-2-diabetes
+title: Living Well with Type 2 Diabetes
+summary: Balance food, activity, medication, and monitoring to keep blood glucose in your target range.
+tags:
+  - Diabetes
+  - Chronic condition
+  - Monitoring
+keywords:
+  - diabetes
+  - glucose
+  - blood sugar
+sections:
+  - title: Track your numbers
+    body:
+      - Note fasting, pre-meal, and post-meal glucose alongside what you ate and how you felt.
+      - Review your time-in-range data with your care team if you use a continuous glucose monitor.
+    highlights:
+      - Keep low supplies like glucose tablets handy in case of hypoglycaemia symptoms.
+  - title: Balance meals and movement
+    body:
+      - Pair carbohydrates with protein and fibre (beans, lentils, whole grains) to slow glucose spikes.
+      - Schedule movement after meals—10 minutes of walking can lower post-meal readings.
+    tips:
+      - Rotate injection or sensor sites to protect skin health.
+  - title: Medication partnership
+    body:
+      - Take medications at the same time each day; use alarms and pill boxes to stay consistent.
+      - Tell your clinician about side effects early; many can be eased with timing or dose adjustments.
+resources:
+  - title: Diabetes UK Food and Activity Planner
+    url: https://www.diabetes.org.uk/guide-to-diabetes/managing-your-diabetes
+  - title: American Diabetes Association Time-in-Range Guide
+    url: https://diabetes.org/tools-support/time-in-range

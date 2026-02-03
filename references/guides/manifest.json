@@ -1,0 +1,22 @@
+{
+  "guides": [
+    { "id": "high-blood-pressure", "file": "high-blood-pressure.yaml" },
+    { "id": "low-mood-cbt", "file": "low-mood-cbt.yaml" },
+    { "id": "better-sleep", "file": "better-sleep.yaml" },
+    { "id": "stress-resilience", "file": "stress-resilience.yaml" },
+    { "id": "living-with-pain", "file": "living-with-pain.yaml" },
+    { "id": "nutrition-and-health", "file": "nutrition-and-health.yaml" },
+    { "id": "type-2-diabetes", "file": "type-2-diabetes.yaml" },
+    { "id": "mindful-meditation", "file": "mindful-meditation.yaml" },
+    { "id": "adhd-focus", "file": "adhd-focus.yaml" },
+    { "id": "ibs-comfort", "file": "ibs-comfort.yaml" },
+    { "id": "healthy-movement", "file": "healthy-movement.yaml" },
+    { "id": "relationship-communication", "file": "relationship-communication.yaml" },
+    { "id": "monitor-your-health", "file": "monitor-your-health.yaml" },
+    { "id": "when-to-seek-care", "file": "when-to-seek-care.yaml" },
+    { "id": "caregiver-support", "file": "caregiver-support.yaml" },
+    { "id": "alcohol-awareness", "file": "alcohol-awareness.yaml" },
+    { "id": "beat-procrastination", "file": "beat-procrastination.yaml" },
+    { "id": "goal-setting", "file": "goal-setting.yaml" }
+  ]
+}

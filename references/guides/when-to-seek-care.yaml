@@ -1,0 +1,35 @@
+id: when-to-seek-care
+title: Knowing When to Contact a Healthcare Professional
+summary: Recognize urgent warning signs, plan ahead for appointments, and get help at the right time.
+tags:
+  - Care Navigation
+  - Safety
+  - Prevention
+keywords:
+  - emergency
+  - doctor
+  - warning signs
+sections:
+  - title: Spot red flags that need urgent care
+    body:
+      - Call emergency services immediately for chest pain, difficulty breathing, sudden weakness, or confusion that appears abruptly.
+      - Seek urgent help for heavy bleeding, severe allergic reactions, suicidal thoughts, or trauma to the head or spine.
+    highlights:
+      - When in doubt, err on the side of calling emergency services—they can triage you en route.
+  - title: Schedule timely routine care
+    body:
+      - Contact your clinic if symptoms persist longer than two weeks, get worse, or interfere with sleep, work, or school.
+      - Request follow-up if medications cause side effects like dizziness, swelling, or rash.
+    tips:
+      - Use secure messaging or nurse advice lines to ask if new symptoms can be managed at home or require a visit.
+  - title: Prepare information before you call
+    body:
+      - Write down the onset date, severity, and triggers for each symptom plus any treatments tried.
+      - Have your medication list, allergies, and insurance details ready to speed up scheduling.
+    highlights:
+      - Keep a list of after-hours clinics, urgent care centers, and telehealth numbers on your fridge or phone.
+resources:
+  - title: WHO Guidance on Emergency Warning Signs
+    url: https://www.who.int/news-room/questions-and-answers/item/emergencies-health-topics
+  - title: NHS 111 Symptom Checker
+    url: https://111.nhs.uk/

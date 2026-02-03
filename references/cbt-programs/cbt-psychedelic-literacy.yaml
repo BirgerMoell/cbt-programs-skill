@@ -1,0 +1,264 @@
+id: cbt-psychedelic-literacy
+title: "Psychedelic Literacy: Science, Safety, and Navigation"
+condition: "Harm Reduction & Education"
+summary: "A comprehensive, science-based program designed to demystify psychedelic experiences. Synthesizing ancient wisdom with modern neuroscience, this course covers the mechanisms of action in the brain, the critical importance of set and setting, navigation techniques for altered states, and the art of integration to maximize safety and therapeutic potential."
+duration: "7 modules • Self-paced educational journey"
+focusAreas:
+  - "Neuroscience of psychedelics"
+  - "Harm reduction and safety"
+  - "Set and setting protocols"
+  - "Navigating altered states"
+  - "Integration practices"
+  - "Compound-specific profiles"
+modules:
+  - title: "Module 1 • The Psychedelic Renaissance: History and Context"
+    overview:
+      - "⚠️ IMPORTANT LEGAL NOTICE: Many psychedelic compounds discussed in this program are illegal in most jurisdictions. This program is provided for educational and harm reduction purposes only. It is designed to improve understanding of psychedelic science, safety protocols, and integration practices. This program does not encourage, promote, or facilitate illegal activity. Laws regarding these substances vary significantly by location and are subject to change. Always research and comply with local laws in your jurisdiction. This educational content is not a substitute for professional medical or legal advice."
+      - "Psychedelics are currently undergoing a massive scientific resurgence, moving from counter-culture stigma to potential breakthrough therapies."
+      - "This module grounds you in the history of these substances, from indigenous sacramental use to the clinical trials of the 1950s and the modern 'Renaissance'."
+      - "Understanding the context helps frame the experience not as a 'party drug' activity, but as a profound tool for consciousness exploration and healing."
+    takeaways:
+      - "Psychedelics have been used for millennia by indigenous cultures for healing and divination."
+      - "The 'War on Drugs' halted promising research for decades, but the data is now undeniable."
+      - "We are moving from a recreational model to a therapeutic and sacramental model."
+      - "Respect for the substance and its lineage is the first step in harm reduction."
+    narrative:
+      - section: "Ancient roots to modern labs"
+        paragraphs:
+          - "Long before they were studied in labs, compounds like psilocybin and mescaline were used in structured ceremonies. Indigenous wisdom emphasized reverence, lineage, and structure—elements that modern science is now validating as essential for safety."
+          - "In the mid-20th century, psychiatry viewed these compounds as 'psychotomimetics' (mimicking psychosis) before realizing they were actually 'psychedelics' (mind-manifesting). Thousands of clinical papers were published before prohibition shut the doors."
+          - "Today, institutions like Johns Hopkins and Imperial College London are proving that under the right conditions, these experiences can treat depression, PTSD, and addiction effectively."
+        exerciseAfter: 0
+      - section: "Defining 'Psychedelic'"
+        paragraphs:
+          - "The word comes from the Greek 'psyche' (mind/soul) and 'deloun' (to make visible). These substances don't just add hallucinations; they reveal the subconscious mind."
+          - "Unlike alcohol or opiates which numb or suppress, psychedelics amplify. This amplification is why safety protocols are non-negotiable."
+          - "We approach this topic with 'Epistemic Humility'—acknowledging that while science can explain the chemistry, the subjective experience remains a profound mystery."
+        exerciseAfter: 0
+    exercises:
+      - "Motivation audit: Why are you interested in this topic? Is it curiosity, healing, or growth? Write down your 'Why'."
+      - "Stigma check: What fears or prejudices do you hold about altered states? Where did they come from?"
+      - "Term definition: Define what 'healing' means to you in a mental health context."
+    homework:
+      - "Research review: Read one summary of a recent FDA-approved study on Psilocybin or MDMA."
+      - "Intention setting: Begin drafting a preliminary intention for your learning journey."
+  - title: "Module 2 • The Neuroscience: Your Brain on Psychedelics"
+    overview:
+      - "What actually happens physically when you ingest a psychedelic? It's not magic; it's neurochemistry."
+      - "This module explains the 5-HT2A receptor, the Default Mode Network (DMN), and the concept of neuroplasticity."
+      - "Understanding the biology helps you surrender to the experience, knowing that the 'chaos' you feel is actually the brain rewiring itself."
+    takeaways:
+      - "Classic psychedelics primarily act on the Serotonin 2A receptor (5-HT2A)."
+      - "They relax the 'Default Mode Network' (DMN), which is the seat of the ego and rigid thinking patterns."
+      - "The brain becomes hyper-connected, allowing distinct regions to communicate (synesthesia)."
+      - "Neuroplasticity is increased, opening a 'window of opportunity' for changing habits."
+    narrative:
+      - section: "The key: 5-HT2A receptors"
+        paragraphs:
+          - "Most classic psychedelics (LSD, Psilocybin, DMT) are structurally similar to serotonin. They bind specifically to the 5-HT2A receptor."
+          - "When activated, these receptors increase neuronal excitability. Imagine the volume knob on your brain's information processing being turned up."
+          - "This leads to an influx of sensory information that the brain usually filters out."
+        exerciseAfter: 0
+      - section: "The Default Mode Network (DMN)"
+        paragraphs:
+          - "The DMN is a network of brain regions active when you are thinking about yourself, the past, or the future. It's the 'Manager' or 'Narrator' of your life."
+          - "In depression and anxiety, the DMN is often overactive and rigid (rumination). Psychedelics drastically reduce blood flow to the DMN."
+          - "Analogy: Imagine your mind is a snowy hill with deep sled grooves (habits). The DMN ensures you stay in the grooves. Psychedelics are like a fresh snowfall, filling the grooves and allowing you to sled in new directions."
+        exerciseAfter: 1
+      - section: "The REBUS Model"
+        paragraphs:
+          - "REBUS stands for 'Relaxed Beliefs Under Psychedelics.' Our brains are prediction machines. We usually see what we expect to see."
+          - "Psychedelics weaken these 'top-down' predictions. Instead of your brain imposing order on reality, you experience raw data from the 'bottom-up'."
+          - "This is why you might see a flower 'breathing'—your brain has stopped filtering the raw sensory input with the label 'static object'."
+        exerciseAfter: 2
+    exercises:
+      - "DMN Observation: Spend 10 minutes strictly observing your thoughts. How many are about the past, future, or self-image? That is your DMN."
+      - "Pattern recognition: Identify one rigid thought pattern (e.g., 'I am not good at X') you would like to disrupt."
+    homework:
+      - "Video study: Watch a visualization of brain entropy or connectivity under psilocybin."
+      - "Neuroplasticity journal: Write down three habits you would change if your brain was temporarily more flexible."
+  - title: "Module 3 • Set and Setting: The Architecture of Experience"
+    overview:
+      - "The drug is only a catalyst. The outcome is determined by 'Set' (internal state) and 'Setting' (external environment)."
+      - "This is the golden rule of psychedelic science. Ignoring this leads to 'bad trips'; respecting it leads to breakthroughs."
+      - "This module provides a checklist for creating the optimal container for safety and depth."
+    takeaways:
+      - "Set includes your mindset, history, expectations, and current emotional state."
+      - "Setting includes the physical room, music, lighting, and the people present (sitters/guides)."
+      - "Safety protocols (sitters, hydrate, access to restrooms) reduce anxiety."
+      - "Intention drives the experience: 'What do I need to learn?' vs 'I want to see pretty colors.'"
+    narrative:
+      - section: "Internal 'Set': Preparing the vessel"
+        paragraphs:
+          - "If you enter a psychedelic state with suppressed fear or resistance, the medicine will amplify it. 'Set' preparation involves clearing the schedule, ensuring no immediate duties, and cultivating a mindset of surrender."
+          - "Screening is vital. Personal or family history of psychosis (Schizophrenia/Bipolar I) creates a high risk. 'Set' implies knowing your biological readiness."
+          - "The most powerful 'Set' tool is Intention. It is the anchor. Example: 'Show me how to love myself' is a strong intention. 'I hope I don't freak out' is a fear-based expectation."
+        exerciseAfter: 0
+      - section: "External 'Setting': Creating the container"
+        paragraphs:
+          - "The environment acts as a third parent. It should be soft, warm, and private. Harsh lighting or chaotic public spaces are recipes for paranoia."
+          - "Music is not background; it is the landscape. Research shows music directs the emotional trajectory of the experience."
+          - "The Sitter: A sober, trusted ally is crucial. Their job is not to guide, but to keep you safe ('holding space'). Knowing someone is there allows you to let go fully."
+        exerciseAfter: 1
+      - section: "The dosage curve"
+        paragraphs:
+          - "Setting must match the dose. A 'microdose' requires less strict setting. A 'macrodose' requires a controlled, clinical, or ceremonial sanctuary."
+          - "Start low, go slow. You can always take more next time, but you cannot take less once it's ingested."
+    exercises:
+      - "Space Audit: Look at your room. Is it cluttered? Is the lighting harsh? How would it feel if you were as sensitive as an infant? Fix it."
+      - "Sitter Selection: Who would you trust with your soul? List 3 qualities a good sitter must have (e.g., non-judgmental, calm)."
+      - "Intention drafting: Create a concise, positive intention."
+    homework:
+      - "Playlist curation: Create or find a playlist designed for the 'wave' of an experience (Ambient -> Rhythmic/Intense -> Melodic/Heart-opening)."
+      - "Safety plan: Write a one-page safety plan. Who to call in an emergency? Where is the water? Where is the exit?"
+  - title: "Module 4 • Navigation: Surrender and The Difficult Experience"
+    overview:
+      - "Once the experience begins, how do you steer? The paradox is that you steer by letting go of the wheel."
+      - "This module teaches the 'Flight Instructions': Trust, Let Go, Be Open."
+      - "We cover breathwork as an anchor and how to transform a 'bad trip' into a 'challenging but educational experience'."
+    takeaways:
+      - "The primary resistance is fear of ego dissolution. The solution is surrender."
+      - "Technique: 'In and Through.' If you see a monster, ask it what it has to teach you. Do not run away."
+      - "Breath is the remote control: Long, slow exhales activate the parasympathetic nervous system."
+      - "Music can be changed to shift the emotional tone if you get stuck."
+    narrative:
+      - section: "The art of surrender"
+        paragraphs:
+          - "The most common cause of anxiety is fighting the experience. You cannot stop the roller coaster once it starts. The safest posture is total relaxation."
+          - "Mantra: 'Trust, Let Go, Be Open.' Trust the compound and your brain. Let go of control. Be open to whatever arises, even if it is weird or scary."
+          - "Visualizing: Imagine floating on your back in a river. If you thrash, you drown. If you float, the current supports you."
+        exerciseAfter: 0
+      - section: "Navigating the 'Bad Trip'"
+        paragraphs:
+          - "We prefer the term 'Challenging Experience.' These are often where the most work is done. They usually point to repressed emotions."
+          - "If you feel terror: Do not curl into a ball. Sit up. Breathe. Connect with your sitter. Change the music."
+          - "The confrontation technique: If a scary image appears, move toward it. Ask: 'What are you? What do you have to show me?' usually, the monster transforms into a lesson."
+        exerciseAfter: 1
+      - section: "Somatic anchoring"
+        paragraphs:
+          - "You have a body. Use it. If your mind spins, touch the floor. Feel the texture of a blanket. Drink water."
+          - "Singing or humming stimulates the Vagus nerve and can instantly shift a mood from fear to power."
+        exerciseAfter: 2
+    exercises:
+      - "Breathwork practice: Practice 'Box Breathing' (4-4-4-4) for 5 minutes. This is your emergency brake."
+      - "Visualization: Close your eyes and imagine a door you are afraid to open. Visualize yourself opening it and hugging whatever is behind it."
+    homework:
+      - "Memorize the mantra: Trust, Let Go, Be Open."
+      - "Create a 'Totem': Select a small physical object that reminds you of safety and reality to hold during the experience."
+  - title: "Module 5 • Compound Profiles: Knowing the Terrain"
+    overview:
+      - "Not all psychedelics are the same. A psilocybin mushroom experience is vastly different from an MDMA therapy session."
+      - "This module outlines the duration, specific effects, and unique safety considerations for the major compounds."
+      - "Harm reduction requires knowing specifically what you are taking and how it behaves."
+    takeaways:
+      - "Psilocybin (Mushrooms): Earthy, emotional, 4-6 hours. Wavy intensity."
+      - "LSD (Acid): Electric, analytical, 8-12 hours. Long duration requires stamina."
+      - "MDMA (Ecstasy/Molly): Empathogen, heart-opening, reduces fear. 4-6 hours. High risk of dehydration/overheating."
+      - "Ketamine: Dissociative, separates mind from body. 45-90 mins. Used for depression."
+    narrative:
+      - section: "The Tryptamines: Psilocybin and LSD"
+        paragraphs:
+          - "Psilocybin is often described as having an 'organic' or 'entity' feel. It comes in waves. It is very internal. Dose matters immensely (1g is recreational, 5g is heroic/shamanic)."
+          - "LSD is more 'digital' and stimulating. Because it lasts 12 hours, you must clear the entire day and the next. Sleep will be difficult afterward."
+          - "Safety note: Reagent testing is mandatory. Many synthetic imposters (like NBOMe) are sold as LSD and can be fatal."
+        exerciseAfter: 0
+      - section: "The Empathogen: MDMA"
+        paragraphs:
+          - "MDMA is not a classic psychedelic; it dampens the fear center (amygdala) rather than dissolving the ego. This makes it excellent for trauma work."
+          - "It depletes serotonin. The 'come down' 2 days later can be rough (the 'Tuesday Blues'). Supplements (pre and post) are recommended."
+          - "Physical safety: MDMA raises body temperature. Sipping water is vital, but drinking too much water without electrolytes is dangerous (hyponatremia)."
+        exerciseAfter: 1
+      - section: "The Dissociative: Ketamine"
+        paragraphs:
+          - "Ketamine acts on Glutamate, not Serotonin. It creates a 'floaty' detachment."
+          - "At high doses ('K-Hole'), you lose awareness of the body. You must be in a safe, lying-down position to prevent falls."
+          - "It is currently the only federally legal psychedelic-style therapy in many places."
+        exerciseAfter: 2
+    exercises:
+      - "Risk Assessment: Choose one compound. List its 3 biggest physical risks and how to mitigate them (e.g., MDMA -> Overheating -> Cool room/Hydration)."
+      - "Timeline planning: Map out a hypothetical 24-hour schedule for an LSD experience vs. a Psilocybin experience."
+    homework:
+      - "Resource check: Locate a reputable vendor for reagent test kits (e.g., DanceSafe, BunkPolice)."
+      - "Contraindication check: Review your current medications. SSRIs (antidepressants) often blunt psychedelic effects or cause risks (Serotonin Syndrome)."
+  - title: "Module 6 • Integration: The Real Work Begins"
+    overview:
+      - "The psychedelic experience is just the class; integration is the homework. Without integration, the experience is just a fleeting memory."
+      - "This module covers the 'Neuroplastic Window'—the critical 2–4 weeks post-experience."
+      - "Techniques for grounding insights into daily behavior."
+    takeaways:
+      - "Integration is the process of weaving the insights from the 'altered' state into the 'default' state."
+      - "The 'Afterglow' is a biological period of increased flexibility. Use it to build new habits."
+      - "Avoid making major life changes (quitting jobs, divorce) for at least 2 weeks after a deep journey."
+      - "Community and sharing help solidify the memory."
+    narrative:
+      - section: "The Neuroplastic Window"
+        paragraphs:
+          - "After the substance leaves your body, your brain remains malleable. This is the time to start meditation, change your diet, or start therapy."
+          - "If you return immediately to a high-stress environment, the 'snow grooves' of the DMN will re-form exactly as they were."
+          - "Protect your peace. Keep the schedule light for the days following."
+        exerciseAfter: 0
+      - section: "Capture and Embody"
+        paragraphs:
+          - "You will forget the feeling. You must capture it. Journaling, voice memos, and art are essential immediately after."
+          - "Embodiment: If you learned 'I need to love myself,' what does that look like on a Tuesday morning? Does it mean sleeping more? Eating better? Setting boundaries?"
+          - "Integration is often boring. It's the slow, steady work of change."
+        exerciseAfter: 1
+      - section: "Dealing with ontological shock"
+        paragraphs:
+          - "Sometimes experiences are so profound they shake your worldview (Ontological Shock). You may feel alienated from 'normal' society."
+          - "Grounding is key: Eat root vegetables, walk barefoot in nature, exercise. Connect with the body to bring the mind back to earth."
+          - "Seek an 'Integration Circle' or therapist who understands psychedelic integration. You need a place to speak your truth without judgment."
+        exerciseAfter: 2
+    exercises:
+      - "Integration Journaling: Write a letter to yourself from the perspective of your 'higher self' or the insight you hope to gain."
+      - "Habit formation: Identify one tiny, physical action you can do daily to anchor a spiritual insight."
+    homework:
+      - "Find a community: Look up a local or online psychedelic integration circle."
+      - "The 'No' List: Create a list of 3 things you will NOT do for 7 days post-experience (e.g., no social media, no alcohol, no arguing)."
+  - title: "Module 7 • Ethics and Harm Reduction: Safe Travels"
+    overview:
+      - "Safety is the floor upon which the dance happens. This module summarizes the 'Zendo Project' principles and medical contraindications."
+      - "We discuss the dark side: spiritual bypassing, power dynamics in shamanic circles, and legal risks."
+      - "A final synthesis of how to be a responsible citizen of the psychedelic ecosystem."
+    takeaways:
+      - "Harm reduction puts safety above judgment."
+      - "Spiritual Bypassing: Using psychedelics to escape human problems rather than face them."
+      - "Consent is paramount. You are in a vulnerable state; ensure your sitters/guides are vetted."
+      - "Know your laws. These substances remain illegal in many jurisdictions. Legal safety is part of set and setting."
+    narrative:
+      - section: "Medical Safety"
+        paragraphs:
+          - "Psychedelics are physically non-toxic generally, but dangerous for specific hearts and minds."
+          - "Heart conditions: Stimulants (MDMA/LSD) raise blood pressure. Consult a doctor."
+          - "Mental Health: Personal or family history of Schizophrenia or Bipolar 1 is the primary contraindication. Psychedelics can trigger latent psychosis."
+          - "Medication interactions: Lithium and Tramadol can be fatal with psychedelics. MAOIs require strict diet changes."
+        exerciseAfter: 0
+      - section: "The Zendo Principles"
+        paragraphs:
+          - "The Zendo Project provides psychedelic peer support. Their 4 pillars are: 1. Safe Space, 2. Sitting, not Guiding, 3. Talk through, not down, 4. Difficult is not bad."
+          - "If you are sitting for a friend, do not try to psychoanalyze them. Just be a calm presence. Offer a blanket and water."
+        exerciseAfter: 1
+      - section: "Avoiding the 'Messiah Complex'"
+        paragraphs:
+          - "A common trap is feeling like you have 'figured out the universe' and need to convert everyone. This is ego inflation."
+          - "Chop wood, carry water. True enlightenment makes you more humble, not more arrogant."
+          - "Respect that this path is not for everyone."
+        exerciseAfter: 2
+    exercises:
+      - "Emergency simulation: unexpected knock at the door during a session. What do you do? Roleplay the response."
+      - "Medication check: Use a compatibility chart (like from TripSit) to check common meds against psilocybin and MDMA."
+    homework:
+      - "Final Safety Checklist: Compile a master checklist: Set, Setting, Substance (Tested), Sitter, Safety Plan, Integration Plan."
+      - "Commitment to respect: Write a personal code of ethics for your engagement with these substances."
+resources:
+  - title: "Maps.org (Multidisciplinary Association for Psychedelic Studies)"
+    url: "https://maps.org/"
+  - title: "Erowid.org (The Encyclopedia of Psychoactive Plants & Chemicals)"
+    url: "https://www.erowid.org/"
+  - title: "The Zendo Project (Harm Reduction & Peer Support)"
+    url: "https://zendoproject.org/"
+  - title: "DanceSafe (Reagent Testing Kits)"
+    url: "https://dancesafe.org/"
+  - title: "Music for Psychedelic Therapy (Johns Hopkins Playlists)"
+    url: "https://open.spotify.com/user/phillysblunt/playlist/5KWf8H2pM0tlVd7niMt1pf"
+

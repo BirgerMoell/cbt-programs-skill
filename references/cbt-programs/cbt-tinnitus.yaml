@@ -1,0 +1,129 @@
+id: cbt-tinnitus
+title: "Finding Silence Within: Habituation to Tinnitus"
+condition: "Tinnitus"
+summary: "A specialized CBT program for tinnitus distress. While we cannot always silence the sound, we can silence the reaction. This program uses habituation, cognitive defusion, and attention training to move tinnitus from the foreground to the background of your awareness, restoring your peace of mind and quality of sleep."
+duration: "6 modules • 8-10 weeks self-paced"
+focusAreas:
+  - "Habituation Strategy"
+  - "Cognitive Defusion"
+  - "Sound Enrichment"
+  - "Sleep Restoration"
+  - "Attention Shifting"
+modules:
+  - title: "Module 1 • The Filter Problem"
+    overview:
+      - "We begin by validating the distress. Tinnitus is not 'just a noise'; it is a phantom perception that can trigger intense fight-or-flight reactions."
+      - "We explain the 'Jastreboff Neurophysiological Model.' The problem isn't the ear; it's the limbic system (emotion center) treating the sound as a threat."
+      - "The concept of 'Habituation' is introduced using the 'Refrigerator Hum' analogy. Your brain ignores steady sounds unless it thinks they are dangerous."
+      - "We map the 'Vicious Cycle': Tinnitus → Fear/Focus → Increased Volume Perception → More Fear."
+      - "We introduce 'Sound Enrichment.' Using background noise not to mask (drown out) the tinnitus, but to reduce the contrast, making it easier to ignore."
+    takeaways:
+      - "Tinnitus volume is subjective and fluctuates based on your emotional state."
+      - "You cannot habituate to a sound you are afraid of."
+      - "The goal is not silence, but indifference."
+    narrative:
+      - section: "The tiger in the room"
+        paragraphs:
+          - "If you heard a tiger growling in the corner of your room, you would not be able to ignore it. Your brain would lock onto that sound. You wouldn't sleep. You wouldn't read. You would just listen."
+          - "Right now, your brain thinks your tinnitus is a tiger. It is monitoring the sound 24/7 to keep you 'safe.' But tinnitus is not a tiger. It is a paper tiger. It cannot hurt you."
+          - "Our job is to teach your brain that this sound is as boring and safe as the hum of a refrigerator. Once the brain realizes it is safe, it will naturally stop listening."
+        exerciseAfter: 0
+    exercises:
+      - "Sound Environment Audit: Evaluate your home. is it dead silent? (Silence makes tinnitus louder). Plan to add low-level sound (fan, nature app)."
+      - "The Reaction Log: Track not the volume of the sound, but your emotional reaction (1-10) to it throughout the day."
+    homework:
+      - "Implement Sound Enrichment (low volume, neutral sound) 24/7, even while sleeping."
+      - "Catch yourself checking 'Is it loud today?' and gently shift focus."
+
+  - title: "Module 2 • Cognitive Defusion: Changing the Story"
+    overview:
+      - "We tackle the catastrophic thoughts associated with tinnitus: 'It will never stop,' 'I will go crazy,' 'I have lost my silence.'"
+      - "We use Cognitive Defusion. Seeing thoughts as just thoughts, not facts."
+      - "We challenge the 'Silence Myth.' True silence is rare and unnatural. We redefine peace not as the absence of sound, but the absence of distress."
+      - "We address the grief of hearing loss (if present) and the anger at the cause (e.g., loud concerts, medication)."
+    takeaways:
+      - "Thoughts like 'I can't cope' amplify the distress more than the sound itself."
+      - "Fighting the sound creates tension, which makes the sound louder."
+      - "Acceptance is not giving up; it is dropping the rope in a tug-of-war."
+    narrative:
+      - section: "Dropping the rope"
+        paragraphs:
+          - "Imagine you are in a tug-of-war with a monster. Between you is a pit. You pull and pull, trying to drag the monster into the pit. You are exhausted. Your hands bleed."
+          - "The monster is tinnitus. You can't drag it into the pit. But you can drop the rope. The monster is still there, on the other side of the pit, making noise. But you are free. You can use your hands for something else now."
+        exerciseAfter: 0
+    exercises:
+      - "Thought Labeling: When you think 'This is awful,' label it: 'I am having the thought that this is awful.'"
+      - "The Grief Letter: Write a letter acknowledging your anger/sadness about the onset of tinnitus, then write a paragraph accepting where you are now."
+    homework:
+      - "Practice 'Dropping the Rope' visualization when the sound spikes."
+      - "Write down 3 things you enjoyed today despite the sound."
+
+  - title: "Module 3 • Attention Shifting & Focus"
+    overview:
+      - "Tinnitus dominates attention. This module trains the brain to shift focus at will."
+      - "We introduce 'Active Listening' to other sounds. Training the auditory filter to pick up birds, traffic, or music *over* the tinnitus."
+      - "We practice 'The Spotlight.' Moving your mental spotlight from the ear to the foot, the hand, the visual field."
+      - "We discuss 'Monitoring.' The habit of checking 'Is it still there?' We learn to stop checking."
+    takeaways:
+      - "Where attention goes, neural firing flows."
+      - "Checking the tinnitus resets the habituation process."
+      - "You can enjoy a movie even if the person behind you is eating popcorn loudly. Tinnitus is just popcorn."
+    narrative:
+      - section: "The party effect"
+        paragraphs:
+          - "Imagine being at a loud party. You can focus on one conversation and tune out the rest. Your brain does this automatically. It filters out the 'noise.'"
+          - "Currently, your brain has the tinnitus on the main stage. We are going to move it to the background noise of the party. You will still hear it if you listen for it, but you will be too busy with the main conversation (your life) to care."
+        exerciseAfter: 0
+    exercises:
+      - "Sound Scavenger Hunt: Go for a walk. actively identify 5 distinct sounds (wind, cars, leaves). Focus intently on each one for 1 minute."
+      - "The Shift Drill: Focus on the tinnitus for 10 seconds. Then shift focus to the sensation of your feet on the floor for 10 seconds. Repeat."
+    homework:
+      - "Practice the Sound Scavenger Hunt daily."
+      - "When you notice tinnitus, immediately engage in a task that requires concentration (e.g., a puzzle, a conversation)."
+
+  - title: "Module 4 • Sleep Strategies for the Ringing Mind"
+    overview:
+      - "Sleep is the biggest casualty of tinnitus. This module adapts CBT-I (Insomnia) for tinnitus."
+      - "Sound enrichment at night is non-negotiable. We create a 'Sound Pillow' or bedside setup."
+      - "We address the fear of quiet rooms."
+      - "Relaxation techniques (Body Scan) to lower physical arousal before bed."
+      - "Cognitive restructuring for 'I won't sleep' panic."
+    takeaways:
+      - "Silence is the enemy of tinnitus habituation at night."
+      - "You can sleep with sound; the brain is designed to filter out steady noise."
+      - "Relaxation lowers the perception of the sound."
+    narrative:
+      - section: "The sanctuary of sound"
+        paragraphs:
+          - "The bedroom can feel like a torture chamber when it's dead quiet. The ringing screams. So, we banish the quiet."
+          - "Fill your room with the sound of rain, crickets, or white noise. This is not masking; it is 'sound therapy.' It gives your auditory brain something else to process, diluting the tinnitus signal. Wrap yourself in a blanket of safe sound."
+        exerciseAfter: 0
+    exercises:
+      - "Sound Setup: Experiment with different sounds (Pink noise, Brown noise, Nature). Find one that is soothing, not annoying."
+      - "Sleep Visualization: Visualize the tinnitus sound as a meaningless signal, like a distant train, that lulls you to sleep."
+    homework:
+      - "Establish a consistent Sleep Sound routine."
+      - "Use the Body Scan to relax physically, even if the sound is present."
+
+  - title: "Module 5 • Life Beyond the Noise"
+    overview:
+      - "Finalizing habituation. Moving from coping to living."
+      - "Exposure to 'Spikes.' Understanding that stress, salt, caffeine, or lack of sleep will make it louder temporarily, and that's okay."
+      - "Protecting hearing (earplugs) without over-protecting (phonophobia)."
+      - "Setting goals that have nothing to do with hearing."
+    takeaways:
+      - "Habituation is fragile at first but becomes robust over time."
+      - "A spike is just a spike; it will settle."
+      - "You are reclaiming your life from the noise."
+    narrative:
+      - section: "The unwanted roommate"
+        paragraphs:
+          - "Think of tinnitus as an annoying roommate. You didn't choose them. They talk too much. They are messy. But they are on the lease, and you can't evict them."
+          - "You have two choices: You can spend every day screaming at them to leave (misery), or you can learn to live your life while they hang out on the couch (freedom). Eventually, you stop noticing they are even there."
+        exerciseAfter: 0
+    exercises:
+      - "The 'So What?' Drill: When the sound spikes, shrug your shoulders physically and say 'So what? It's just noise.'"
+      - "Values Planning: Plan an activity you avoided because 'it might be too loud' or 'I won't enjoy it.' Do it with appropriate protection."
+    homework:
+      - "Create a 'Spike Plan' (Hydrate, Sleep, distract)."
+      - "Write a 'Declaration of Independence' from the sound."

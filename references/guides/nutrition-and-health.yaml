@@ -1,0 +1,31 @@
+id: nutrition-and-health
+title: Diet and Everyday Health
+summary: Build balanced meals, stay energized, and plan ahead so nutrition supports your health goals.
+tags:
+  - Nutrition
+  - Lifestyle
+  - Prevention
+keywords:
+  - diet
+  - nutrition
+  - meal planning
+sections:
+  - title: Build balanced plates
+    body:
+      - Fill half your plate with colourful vegetables or fruit, a quarter with lean protein, and a quarter with whole grains.
+      - Add healthy fats like olive oil, nuts, or seeds to support hormone balance and satisfaction.
+  - title: Plan ahead for busy days
+    body:
+      - Prep ingredients or full meals on one dedicated day so weeknight choices are quick and nourishing.
+      - Keep portable snacks (nuts, yogurt, hummus with veg) ready to prevent energy crashes.
+    tips:
+      - Set reminders to drink water regularly; aim for urine the colour of pale straw.
+  - title: Tailor nutrition to your data
+    body:
+      - Review blood work (glucose, lipids, iron) with your clinician and adjust meals accordingly.
+      - Note how different foods affect your energy or digestive comfort in your journal to spot patterns.
+resources:
+  - title: Eatwell Guide Planner
+    url: https://www.nhs.uk/live-well/eat-well/
+  - title: Harvard Healthy Plate
+    url: https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/

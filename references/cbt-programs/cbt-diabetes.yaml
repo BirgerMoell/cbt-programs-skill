@@ -1,0 +1,200 @@
+id: cbt-t1dm-mastery
+title: "Diabetes Mastery: Overcoming Distress and Fear"
+condition: "Type 1 Diabetes Mellitus (T1DM)"
+summary: "A clinically grounded, 7-module digital intervention designed to reduce diabetes-related distress and the Fear of Hypoglycemia (FoH). By combining structured Problem-Solving Therapy with graded Exposure techniques, this program helps you break the cycle of avoidance and burnout, allowing you to manage your diabetes with confidence rather than fear."
+duration: "7 modules • 6–8 weeks self‑paced"
+focusAreas:
+  - "Diabetes Distress"
+  - "Fear of Hypoglycemia (FoH)"
+  - "Problem-Solving Skills"
+  - "Anxiety Management"
+  - "Exposure Therapy"
+  - "Burnout Prevention"
+image: "images/diabetes-mastery-hero.jpg"
+modules:
+  - title: "Module 1 • The Invisible Burden: Diabetes Distress vs. Depression"
+    image: "images/module1-burden.jpg"
+    overview:
+      - "Type 1 Diabetes requires 24/7 decision-making. This constant cognitive load often leads to 'Diabetes Distress'—a state of feeling overwhelmed, defeated, or burnt out by the demands of self-care."
+      - "This module helps you distinguish between general depression and diabetes-specific distress, validating that your frustration is a normal reaction to an abnormal demand."
+      - "We establish the biological link between stress hormones (cortisol/adrenaline) and blood glucose, helping you see why mental health is actually physical health."
+    takeaways:
+      - "Diabetes distress is distinct from depression; it is directly linked to the burden of management."
+      - "Stress hormones can cause blood sugar spikes, creating a vicious cycle of frustration."
+      - "You are not 'bad' at diabetes; you are likely reacting to a high disease burden."
+    narrative:
+      - section: "You are not alone in the struggle"
+        paragraphs:
+          - "Managing Type 1 Diabetes is like having a second full-time job that you cannot quit. When you feel exhausted by it, that isn't a sign of weakness; it's a sign of 'Diabetes Distress.' Unlike depression, which is a general loss of interest, distress is specifically about the overwhelming math, planning, and worry of diabetes."
+          - "Understanding this distinction is vital. We aren't trying to 'fix your personality'; we are trying to reduce the burden of the disease so you can breathe again."
+        exerciseAfter: 0
+      - section: "The biology of stress and sugar"
+        paragraphs:
+          - "When you are stressed or anxious, your body releases cortisol and adrenaline. In a person without diabetes, insulin adjusts automatically. In T1DM, these hormones can cause your liver to dump glucose, causing unexplained highs."
+          - ""
+          - "This means that managing your stress levels is not just 'self-care'—it is literally glycemic control. By lowering distress, we can often stabilize the numbers."
+      - section: "Introduction to the toolbox"
+        paragraphs:
+          - "We will use two primary tools: Problem-Solving (for the daily grind) and Exposure (for the fears that hold you back). These are evidence-based methods adapted specifically for the T1DM experience."
+    exercises:
+      - "The Distress Inventory: Complete the PAID (Problem Areas in Diabetes) assessment to pinpoint exactly where your burden lies (e.g., food, social situations, doctor visits)."
+      - "Stress-Sugar Log: For three days, note your stress level (1-10) alongside your blood glucose readings to see if there is a correlation."
+    homework:
+      - "Psychoeducation Review: Read the guide on 'The fight-or-flight response in T1DM' to understand your body's signals."
+  - title: "Module 2 • The Problem-Solving Engine"
+    image: "images/module2-problemsolving.jpg"
+    overview:
+      - "Diabetes problems often feel too big to solve (e.g., 'I want to lose weight but insulin makes it hard'). This module teaches a structured 4-step Problem-Solving technique to break vague worries into actionable plans."
+      - "We move away from emotional reasoning and toward logical strategy, helping you tackle issues regarding diet, insulin timing, and social navigation."
+      - "You will build a 'Solution Bank' to prevent decision fatigue."
+    takeaways:
+      - "A problem well-defined is a problem half-solved."
+      - "Brainstorming requires suspending judgment to find creative solutions."
+      - "Action plans must be specific, measurable, and realistic."
+    narrative:
+      - section: "Step 1: Define the problem clearly"
+        paragraphs:
+          - "Vague problems like 'I'm messy with my supplies' are impossible to solve. We need specifics: 'I forget to restock my pump supplies because I don't have a visual reminder.'"
+          - "In this module, you will list your top 3 diabetes frustrations. Be specific. Is it fear of lows at night? Is it awkwardness injecting in public? Is it burnout from tracking data?"
+          - ""
+      - section: "Step 2 & 3: Brainstorming and Selecting"
+        paragraphs:
+          - "Generate as many solutions as possible without critiquing them. Even silly solutions count because they spark creativity. Then, pick the most viable one."
+          - "For example, if you forget evening insulin: Set an alarm? Put the pen on your pillow? Ask a partner to remind you? Link it to brushing your teeth?"
+      - section: "Step 4: Action Planning"
+        paragraphs:
+          - "A solution is just a wish until it is planned. When will you start? What do you need? What could get in the way?"
+    exercises:
+      - "Problem Selection: Choose one specific issue from your Distress Inventory (Module 1)."
+      - "The Solution Generator: Write down 5 potential solutions for this problem, then rank them by feasibility."
+    homework:
+      - "The One-Week Test: Implement your chosen solution for 7 days. Do not judge it until the week is over."
+  - title: "Module 3 • Decoding Fear of Hypoglycemia (FoH)"
+    image: "images/module3-foh.jpg"
+    overview:
+      - "Fear of Hypoglycemia (FoH) is a specific anxiety regarding low blood sugar. It is a survival instinct gone into overdrive."
+      - "FoH leads to 'safety behaviors'—like keeping blood sugar chronically high (running sweet) or avoiding exercise—that protect you today but hurt you tomorrow."
+      - "This module helps you distinguish between actual physiological hypoglycemia and the anxiety about hypoglycemia, which often feel identical."
+    takeaways:
+      - "Running blood sugar high to avoid lows is a common but dangerous coping mechanism."
+      - "Anxiety symptoms (sweating, racing heart) mimic low blood sugar symptoms."
+      - "Avoidance restricts your life and reinforces the fear."
+    narrative:
+      - section: "The paradox of safety"
+        paragraphs:
+          - "It makes sense to fear lows. They are dangerous. But when fear dictates your life, you might stop exercising, stop driving, or eat unnecessarily. We call these 'safety behaviors.'"
+          - "The problem is that avoidance prevents you from learning that you *can* handle a low. It traps you in a cycle where your world gets smaller and smaller."
+          - ""
+      - section: "The false alarm: Anxiety vs. Hypo"
+        paragraphs:
+          - "Here is the tricky part: Anxiety causes adrenaline release. Hypoglycemia causes adrenaline release. They feel the same (shaking, sweating, heart pounding)."
+          - "Many people treat a panic attack with sugar because they think it's a low. We will learn to check the data (CGM/Fingerstick) before reacting."
+    exercises:
+      - "Safety Behavior Audit: List things you do to prevent lows that might be excessive (e.g., carrying 5 juice boxes for a 10-minute walk, keeping glucose above 12 mmol/L)."
+      - "Symptom Differentiation: Create a checklist of your specific 'Low' symptoms vs. your 'Anxiety' symptoms."
+    homework:
+      - "The Pause Technique: This week, whenever you feel 'low,' commit to checking your number before eating (unless it is an obvious emergency)."
+  - title: "Module 4 • Building the Exposure Ladder"
+    image: "images/module4-ladder.jpg"
+    overview:
+      - "Exposure therapy is the gold standard for reducing fear. We will use a 'graded' approach, meaning we start small."
+      - "You will sort potential situations (e.g., going to the gym, sleeping alone) into a hierarchy from 'mildly uncomfortable' to 'terrifying.'"
+      - "This preparation phase ensures you feel in control of the process."
+    takeaways:
+      - "We do not jump into the deep end; we climb a ladder."
+      - "Subjective Units of Distress (SUDs) help us measure fear objectively."
+      - "The goal is habituation: getting bored of the fear, rather than eliminating the risk."
+    narrative:
+      - section: "Creating your hierarchy"
+        paragraphs:
+          - "Imagine a ladder. The bottom rung is something easy, like walking around the block without checking your CGM for 10 minutes. The top rung might be exercising alone."
+          - "We will look at 'cards' of common diabetes fears. You will sort them and select which ones apply to your life. This creates your personal roadmap."
+          - ""
+      - section: "Defining the feared outcome"
+        paragraphs:
+          - "What are you actually afraid of? 'If I go for a run, I will pass out and no one will find me.' We need to write this down so we can test if it's true."
+    exercises:
+      - "Card Sorting: Categorize 10 common situations into Green (Easy), Yellow (Challenging), and Red (Hard)."
+      - "The Ladder Construction: Select 5 situations to form your exposure plan for the next few weeks."
+    homework:
+      - "Motivation Anchor: Write a letter to your future self about *why* you are doing this hard work (e.g., 'To hike with my family again')."
+  - title: "Module 5 • Safety Planning & Experiment Design"
+    image: "images/module5-safety.jpg"
+    overview:
+      - "Exposure in T1DM is different from regular phobias because the risk is real. Therefore, safety planning is non-negotiable."
+      - "We integrate problem-solving here to mitigate *actual* risk while challenging *perceived* risk."
+      - "You will design a 'Behavioral Experiment' to test your fears safely."
+    takeaways:
+      - "Medical safety comes first; we expose to the *feeling* of fear, not dangerous medical states."
+      - "Preparation reduces the likelihood of catastrophic thinking."
+      - "Every exposure needs an 'exit strategy' to keep you feeling safe."
+    narrative:
+      - section: "The safety net"
+        paragraphs:
+          - "We never expose to unsafe blood sugars. If you are actually low, treat it. We expose to the *situation* or the *sensation*."
+          - "We will set up safety rails: carrying fast-acting glucose, wearing medical ID, and setting CGM alerts. Once these are in place, the remaining fear is psychological."
+          - ""
+      - section: "Designing the experiment"
+        paragraphs:
+          - "Select the bottom rung of your ladder. Plan the When, Where, and How."
+          - "Example: 'I will walk to the mailbox without my oversized bag of supplies. I will have glucose tabs in my pocket, but I won't bring the whole bag.'"
+    exercises:
+      - "Safety Checklist: Verify you have the necessary medical supplies for your planned exposure."
+      - "Prediction Log: Write down: 'I predict that if I do X, anxiety will be at level Y, and [Bad Thing] will happen.'"
+    homework:
+      - "The Setup: Prepare your environment for the first exposure (e.g., pack the light bag, charge the phone)."
+  - title: "Module 6 • Exposure: Facing the Fear"
+    image: "images/module6-exposure.jpg"
+    overview:
+      - "This is the action phase. You will systematically engage with the situations on your ladder."
+      - "We focus on 'Expectancy Violation'—the powerful moment you realize the catastrophe you predicted did not happen."
+      - "You will learn to sit with high anxiety without performing a safety behavior (like checking your pump every 30 seconds)."
+    takeaways:
+      - "Anxiety creates a bell curve; it rises, peaks, and eventually falls if you stay in the situation."
+      - "Learning happens when the 'bad thing' doesn't happen."
+      - "Repetition is essential for the brain to rewire its fear response."
+    narrative:
+      - section: "Riding the wave"
+        paragraphs:
+          - "When you step into the feared situation, your anxiety will spike. This is expected. Do not retreat. Check your numbers to confirm safety, then wait."
+          - "Imagine anxiety as a wave. It cannot stay high forever. If you stay in the situation, the brain eventually realizes, 'Oh, we aren't dying,' and the anxiety drops."
+          - ""
+      - section: "Post-Exposure Review"
+        paragraphs:
+          - "After the activity, check your Prediction Log. Did you faint? Did you panic? Was it as bad as you thought?"
+          - "Usually, the anticipation is worse than the event. This realization is the 'medicine' of CBT."
+    exercises:
+      - "Live Exposure: Complete your planned activity."
+      - "Debriefing: Record your starting anxiety, peak anxiety, and ending anxiety. Note what actually happened vs. what you feared."
+    homework:
+      - "Repetition: Repeat this specific exposure 3 times this week until it feels boring. Then move to the next rung on the ladder."
+  - title: "Module 7 • Mastery and Maintenance"
+    image: "images/module7-mastery.jpg"
+    overview:
+      - "You have built skills in problem-solving and exposure. Now we look at the long term."
+      - "This module focuses on relapse prevention, handling new life phases (job changes, pregnancy, aging), and maintaining the gains you've made."
+      - "We revisit the outcome measures to celebrate your progress."
+    takeaways:
+      - "Diabetes is a marathon; these tools are your endurance kit."
+      - "Setbacks are normal; return to the basics (Problem-Solving) when they happen."
+      - "Integrating these skills leads to a life defined by values, not glucose numbers."
+    narrative:
+      - section: "The new normal"
+        paragraphs:
+          - "You have moved from avoidance to engagement. You might still have tough days—that's diabetes. But now you have a method to handle them."
+          - "Keep your 'Solution Bank' and 'Exposure Ladder' accessible. If you notice yourself avoiding the gym again, you know exactly what to do."
+      - section: "Checking the dashboard"
+        paragraphs:
+          - "Let's look at your metrics. We aren't just looking at HbA1c; we are looking at your PAID score. Has the emotional burden decreased? That is a massive victory."
+    exercises:
+      - "Final Assessment: Retake the PAID Scale and compare it to Week 1."
+      - "Future Blueprint: Identify one large life goal you avoided in the past due to diabetes, and draft a plan to achieve it using your new skills."
+    homework:
+      - "The Monthly Check-in: Set a recurring calendar reminder to review your distress levels and practice one exposure exercise."
+resources:
+  - title: "Understanding Diabetes Distress"
+    url: "https://diabetes.org/mental-health"
+  - title: "Hypoglycemia Awareness & Safety"
+    url: "https://jdrf.org/t1d-resources/living-with-t1d/hypoglycemia/"
+  - title: "Problem-Solving Worksheets"
+    url: "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Problem-Solving"
