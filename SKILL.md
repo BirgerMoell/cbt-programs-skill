@@ -29,8 +29,8 @@ Provide a virtual CBT coach experience that blends chat guidance with HTML-based
 - Use output file like `outputs/<program-id>/program.md`.
 
 3. **Guide the current module (chat)**
-- Summarize the module in 4-8 sentences.
-- Ask which exercise(s) they want to start with.
+- Print the full Module content in chat: Overview, Key Takeaways, Narrative sections, Exercises, and Homework.
+- After the full module text, ask which exercise(s) they want to start with.
 - Collect responses in chat OR let them draft in HTML and paste back.
 
 4. **Review (soft gate)**
